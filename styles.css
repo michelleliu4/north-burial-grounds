@@ -1,33 +1,52 @@
-img, p, h1, h2, .divider {
+/* ==========================================================================
+   GLOBAL LAYOUT CONSTRAINTS
+   ========================================================================== */
+img,
+p,
+h1,
+h2,
+.divider,
+.quick-facts,
+.image_credit {
     width: 100%;
     max-width: 640px;
     margin-left: auto;
     margin-right: auto;
+    box-sizing: border-box;
 }
 
+/* ==========================================================================
+      BASIC ELEMENT STYLES
+      ========================================================================== */
 img {
     display: block;
-    padding: 15px 0px; 
+    padding: 15px 0;
 }
 
 p {
     font-size: 18px;
     line-height: 1.4;
-    font-family: "Crimson Text";
+    font-family: "Crimson Text", serif;
 }
 
-h1, h2 {
-    font-family: "Roboto";
+h1,
+h2 {
+    font-family: "Roboto", sans-serif;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
 }
 
 #author {
-    font-style: italic;
+    margin-bottom: 0;
 }
 
-#cat {
-    width: 100%;
-    max-width: 800px;
-    padding: 0px;
+#date {
+    color: grey;
+    font-size: 16px;
+    margin-top: 0;
 }
 
 .divider {
@@ -35,5 +54,82 @@ h1, h2 {
     background-color: #0868ac;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+.image_credit {
+    font-style: italic;
+    font-size: 15px;
+    margin-top: -10px;
+}
+
+/* ==========================================================================
+      QUICK-FACTS CALLOUT
+      ========================================================================== */
+.quick-facts {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: #3a1f1f;
+    color: #fff;
+    padding: 2rem;
+    border-radius: 8px;
+    margin: 2rem auto;
+}
+
+.quick-facts_text {
+    flex: 1;
+    margin-right: 1.5rem;
+    text-align: center;
+}
+
+.quick-facts_stats {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.fact {
+    margin-bottom: 1rem;
+}
+
+.fact:last-child {
+    margin-bottom: 0;
+}
+
+.fact_number {
+    font-family: "Roboto", sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1;
+}
+
+.fact_label {
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.9rem;
+    color: #ccc;
+}
+
+/* ==========================================================================
+      MOBILE
+      Stacks the quick facts
+      ========================================================================== */
+@media (max-width: 600px) {
+    .quick-facts {
+        flex-direction: column;
+        text-align: center;
     }
-    
+
+    .quick-facts__stats {
+        align-items: center;
+        margin-top: 1rem;
+    }
+
+    .fact {
+        text-align: center;
+        margin-bottom: 1rem;
+    }
+}

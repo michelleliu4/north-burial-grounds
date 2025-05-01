@@ -1,0 +1,529 @@
+hash256,birth_year_value,death_year_value,birth_city,birth_state,birth_city_lat_long,birth_country,death_city,death_state,death_country,death_city_latitude_longitude
+8d3ee8bdc9b4bb8ae2e7d750a4ab2aae3f684845ba64d7b78386910b6f6c54a2,1610,1700,,,,,Providence,RI,United States of America,"41.82442, -71.41251"
+e9c582e8a385698710a44847ad8d2a4652dfde0f6821dd9d5d745695b25a965c,1617,1685,,,NA,England,Providence,RI,United States of America,"41.82442, -71.41251"
+979fcb83581c1bc89ba14ef2ae80fe5b62a4ffbdd3e1b0fdb20a4b2c3e9ed62b,1624,1666,Dochester New England,,"42.29687, -71.07450",United States of America,,,,
+6735a90b5f44179f425cb7563c959b05c3bfd5ad369d9800dc7f6691b0162cf6,1664,1739,Providence,RI,"41.82442, -71.41251",United States of America,,,,
+283993c9ab268cb3f7e56ba62304a06c9d7219f5a56ee0aac3fb7d892cdef3eb,1671,1758,Providence,RI,"41.82442, -71.41251",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+20acaa9846c226bbf97bd70b719d457391c1a335b967252656f605fe9a3bd50b,1697,1769,Boston,MA,"42.3555, -71.0603",United States of America,,,,
+5a81a1e9988cdc74b27b0f7baa40242e1aa1e0b81091c93a98f7eecb3477d8b3,1698,1781,,,,,North Providence,RI,United States of America,"41.84987, -71.46598"
+7ba1543a4dd626455a81c90a40cff9e90dfc93e1c51a2b5961cc5fc06de3b96b,1701,1755,Rehoboth,MA,"41.85396, -71.23999",United States of America,Rehoboth,MA,United States of America,"41.85396, -71.23999"
+36385774dcd9aee6121aa8eae5adbd3f5ed775f7ae5b340c4cc14e3c2f5006ab,1702,1769,Sutton,MA,"42.1502, -71.7644",United States of America,,,,
+8c3b9159b755a6f428783673a2e4eb6048a8558deda391518567d3c9732bd810,1703,1786,London,,"51.5070, -0.1318",England,East Greenwich,RI,United States of America,"41.66073, -71.45525"
+935843d61b99269eef1588053427eb35c56f7e2eced4d17d0ae2a40221541aa7,1704,1730,Dundee,,"56.4663, -2.9773",Scotland,,,,
+dbe7061f2bb76dfabbf7bfa98b87a5c0a05e153b2c366e829aa7d43d685b77c5,1704,1729,,,,,Bridgewater,MA,United States of America,"41.98910, -70.97425"
+614ff55c3dd5df849ab9c80c0fbdb1a87c26b3d00402bcab3add32a9a33e192e,1712,1730,London,,"51.5070, -0.1318",England,,,,
+386732db4f9104ddc8815a9518cb9212ad4fdb9ead9513992f669e33be4b6669,1716,1754,,,,,London,,England,"51.5070, -0.1318"
+019d181f0ac2b6ef577725b74dd75d771400a5fd97605bd6530b5e604ca3867e,1724,1807,Rehoboth,MA,"41.85396, -71.23999",United States of America,,,,
+24fd91b91aa7992c5239768c8501678bd77955215ce2f2f6bf80a2b584e23bb7,1724,1802,Rehoboth,MA,"41.85396, -71.23999",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+da523a19c444c5c8ba26f919fae236142661de9f3b84b4b11bf25bc49ac4e936,1725,1785,Rehoboth,MA,"41.85396, -71.23999",United States of America,,,,
+24930a8767b2c58928c3e0e162dc004ebb8077e11d7e64765b3aaeb0cd34f25d,1725,1751,,,,,York,VA,United States of America,"37.2232, -76.5184"
+96a959fa9354ae75dc21afff0aa5081fcf7460d667e420c91fa974278e1455d3,1729,1812,Swansea,MA,"41.74916, -71.19123",United States of America,,,,
+5dbf891c10116aaf6c0354456f350e22ed5a3f341065ac13fb470372cc44f341,1732,1805,Rehoboth ,MA,"41.85396, -71.23999",United States of America,,,,
+fb5f7d598bac10d1b3e8d863a32ea83386e30ceef36c3dc7f55c7b57617b3f47,1734,1816,East Greenwich,RI,"41.66073, -71.45525",United States of America,,,,
+42f749055de3ab37d07841b8325da2b02d26e9a0f96135608ba434b805eaf221,1735,1753,,,,,Cape Breton,,Canada,"46.27038702138829, -60.87344466050609"
+a0482076b545b75d17e13497e1a1f1e07a518bce14d5bb960d95e05d9a41496b,1737,1815,,,,,Woodstock,CT,United States of America,"41.9483, -71.9721"
+6ddb46df5aeb07473dd10777b54e21d67f2bea793b955b873ee3b8012bfabb36,1738,1823,East Greenwich,RI,"41.66073, -71.45525",United States of America,,,,
+132ca2e224745bbb3928e7c81ac7844febfdf7064ee4508151802c594dade4ad,1739,1811,Dighton,MA,"41.81495, -71.12051",United States of America,,,,
+815faa98ee8493d51067fda47e19fae73828dcfe32ef3e5c6698351407b19c6c,1740,1817,New London,CT,"41.3554, -72.0992",United States of America,,,,
+926af36d425ab24ce73cfa9919344c4b2f95110d1e92f01d3e487ed758d8b238,1740,1787,Johnston,RI,"41.83069, -71.54211",United States of America,,,,
+40ea17ddf298da056bc50f908966067eddc61c6b50177a4f377be5b71038a02d,1741,1804,,,,,Wrentham,MA,United States of America,"42.06701, -71.32822"
+e46b1de8667e5a4332ee641fea4cd656bd35ba0aeca853eac52e8913b2b7d968,1742,1821,Charleston,SC,"32.7879, -79.9379",United States of America,,,,
+290f357ba0e5ef8a1a79a6c22f17f0b6f5799af4e032c13405b8eb770d96f3c3,1743,1825,,,,England,Providence,RI,United States of America,"41.82442, -71.41251"
+137b9df434695757b9693ec874945503d64f8526c0cc588dcd0dd92649c370b3,1744,1826,Newport,RI,"41.49032, -71.31363",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+0a24e3465344d184ecb84aa0f485b7c5c6ca9f310c24f299d7dc3a26d48e4e64,1746,1781,,,,,Petersburg,VA,United States of America,"37.22800, -77.40194"
+6d04006b2dfba04a73b7da69ad5e81c5d9db7452883386f9c95805084b74dac0,1747,1828,Pawtucket,RI,"41.87915, -71.38178",United States of America,,,,
+05ecae92af0a99a745702b2e02f277691cfd49059d8e6c8dfe8f731018b96fc3,1747,1836,,,,,Cranston,RI,United States of America,"41.77899, -71.43723"
+5702cb1d0ad99dedc0a197608f79e2e8cb0a867d15f556cf7271659ab844e579,1748,1828,,,,,Attleborough,MA,United States of America,"41.92482, -71.34976"
+5dc2c8ed45d61ffeff829cb555e7b76f1e34f66ac4bd5db9149b492681f32b58,1749,1818,Rehoboth,MA,"41.85396, -71.23999",United States of America,,,,
+dc878a4b05337ab3b7679a1c44f77f51e9d77c7417b3d446e37f0ad3f5713bd0,1750,1822,Thompson,CT,"41.9580, -71.8626",United States of America,,,,
+af02f26be9066da58f6d7f7028601e3d80c78e8927166f39e5765e8010d65a5c,1751,1798,Worcester County,MA,"42.2600, -71.7991",United States of America,,,,
+0b3cfc6f2ae1541a5e3d1c380ff34778e83e22ee29382e68c0162950e61a4518,1751,1822,Boston,MA,"42.3555, -71.0603",United States of America,Seekonk,MA,United States of America,"41.8077, -71.3325"
+0ad167fbe399409f26f59e4f5ad626adb9cc8a9551a3525d25d0841196193679,1752,1836,Newport,RI,"41.49032, -71.31363",United States of America,Brooklyn,CT,United States of America,"41.78795, -71.95015"
+b519813dc5a27d2d58d261ad4bd525eb63601f3b35a6a2f05e9976e48a89c066,1753,1831,North Providence,RI,"41.84987, -71.46598",United States of America,,,,
+47d86b2f46719eb2867a91f95f065453bf9daf34a421cd84a12b5bdbc1abceaa,1753,1787,,,,,Woodstock,CT,United States of America,"41.9483, -71.9721"
+3b04eea6a01ddaf1e865e53def09767a356afeec0d9d658017c25bfaa0d7fc4d,1755,1839,New Haven,CT,"41.3088, -72.9259",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+d2b3c5471a8018b1b7ec3107b612d59ed713c5c70158522c8eeeaeae9574f3aa,1755,1825,,,,,Attleborough,MA,United States of America,"41.92482, -71.34976"
+d130890bbebd97118dbc811cf1dfeaadb65fbe6576f16f2f8b8d50b54d9a63ca,1755,1843,Boston,MA,"42.3555, -71.0603",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+529fb76edd3fd73488bd2f57e134d77e167516dfd1fbdd362766d0fc455ce2a9,1756,1826,,,,,Providence,RI,United States of America,"41.82442, -71.41251"
+cc6f1862354b079a8b68e74c0d09297c0493b8399c6e310ec79bfa1e4a74ad1a,1756,1855,Newport,RI,"41.49032, -71.31363",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+6b5a3c611c4a8c64406bd68d1bcb41faa15d416159210f8782f69d2fa8ddb3f1,1756,1822,Newport,RI,"41.49032, -71.31363",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+5e31ee322c4e3c00ac95a48e49d73f3e94538a813ee8bfc92af9fe1175d7182f,1756,1828,Cranston,RI,"41.77899, -71.43723",United States of America,,,,
+01f1404d3a2ab7847962035ec0a7ce22a27d6a63c460af0eb740e9218bddf452,1756,1792,,,,,Cape Tiberoon,,Hispaniola,"18.381, -73.369"
+25d6a0f37db1a2864e707caa5902cf57481b5a365fb5baef87dbf441daba6d1a,1757,1825,,,,,Newport,RI,United States of America,"41.49032, -71.31363"
+f16ea34948c994c13eeaf1437daa338731943b9801c89148c999e7bab313808b,1758,1842,Newport,RI,"41.49032, -71.31363",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+8bd4695a58c0e3a773cb088b080879965cb497e4d64b27b76a7181b228c39984,1758,1845,Providence,RI,"41.82442, -71.41251",United States of America,,,,
+773d594b7a4b95930be641b756a8f2e1868075949aea4831c872053a2c7fb0b7,1758,1826,,,,,Newport,RI,United States of America,"41.49032, -71.31363"
+8172e9a380504500ee4c9b99e5f12bc2ff1f0133e17cd22ab26480de9fd1fac2,1759,1821,Gloucester,RI,"41.9115, -71.7160",United States of America,,,,
+a474e99f04aacfa37840c590a51207ca3983e43712cbd2f67a6cc87e260d6a8a,1759,1846,,,,,Warwick,RI,United States of America,"41.7001, -71.4595"
+6735555ccfad8cea26a1cb58883499f393e451a249c5f37ac75dcb65f822dbd0,1759,1840,Boston,MA,"42.3555, -71.0603",United States of America,,,,
+33a185c06cb310648161c390bff7643cdb8f87124d6fc2b98a58355e3e950c4a,1760,1834,,,,,Boston,MA,United States of America,"42.3555, -71.0603"
+5309de8032d0eff2e06649cbd9fabcf776cf094fb85a8b29b5787be21614ad65,1760,1806,,,,,Philadelphia,PA,United States of America,"39.9508, -75.1643"
+466fe6819fde4d774e0b4eadae6997e6a491b35afbe256a8c36c1ed5424bd422,1760,1832,Johnston,RI,"41.83069, -71.54211",United States of America,Cranston,RI,United States of America,"41.77899, -71.43723"
+b879ca2dfea4e2c6b7f905f3939f2367c69a2993e511b1c427f7dea3a3bad576,1761,1826,Andover,MA,"42.6592, -71.1375",United States of America,,,,
+b0937b1cb92a601cea3ca961ec64c706159661672442d7f6e9aff0c9964f7a6c,1762,1829,Swanzey,MA,"41.74916, -71.19123",United States of America,Providence Neck,RI,United States of America,"41.82442, -71.41251"
+65e55f98062d4c053d17b78f6c2f6c84d6bd239630727db26ce53a9cb87f5ec1,1763,1796,,,,,Providence,RI,United States of America,"41.82442, -71.41251"
+3a471061fda2505f2cdcbfe730213ee7659bd72036f9db966fec4df2874ebf97,1763,1797,,,,,Charlestown,SC,United States of America,"32.7879, -79.9379"
+7a843f4db5496c5b9eb9f934ea6b650910d8fe3c40483affd87175b3220fbca5,1763,1837,Johnston,RI,"41.83069, -71.54211",United States of America,,,,
+9371390aedfdf5e53bb1ac4a40358f4ea6e693ccb89c97a5738f506865c02280,1763,1843,,,,,Phenix,RI,United States of America,"41.71982, -71.53228"
+696c8ca971b3c7f42b8f93b8c882c6231cb484ad4b24a039d4419c035ab5be8d,1764,1803,,,,,Alexandria,DC,,"38.80507, -77.04763"
+17421977dcf2bb2f74e078a51bb4114d7ab718f8d10b48119e7849fb12787744,1764,1843,,,,,North Providence,RI,United States of America,"41.84987, -71.46598"
+9ffdb53d4b91bd783dad1a7523b0a83c82404c06af1b4b1904ecc9b7fcd5a417,1765,1837,Rochester,NH,"43.3039, -70.9751",United States of America,Newport,RI,United States of America,"41.49032, -71.31363"
+5c8d2de06bb638ef8779a332fd4745b6a852b22f13334718983b8fc451b61d10,1765,1839,,,,,Cranston,RI,United States of America,"41.77899, -71.43723"
+2c4516d2d8511b8aec953c3544678fabc52df3955f6ecfb53601825249b42aab,1765,1849,Sudbury,MA,"42.3824, -71.4180",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+fd18e12ad6e9fa70662bbe2e1a95d57b5e44cf9e993a66a0c33d55bb17c85335,1765,1804,Johnston,RI,"41.83069, -71.54211",United States of America,,,,
+45fe4ee4a452e092255056a0ac81f1ca264a8a72439d302990060260e955b8b6,1765,1847,Westport,MA,"41.6211, -71.0778",United States of America,Fairhaven,MA,United States of America,"41.6360, -70.9016"
+63b1c577602deb838ba193b150868b37a7207c4394129b8012951571777d5580,1766,1823,Johnston,RI,"41.83069, -71.54211",United States of America,,,,
+f36bad235ad5a74fedafd90dc9732225e051d3c5e280897f80dfd0f2dd48640b,1766,1846,,,,,Dodgeville,MA,United States of America,"41.92080, -71.29655"
+5f9278e4cd671ff45c896d22d6ebd649b3462a42339b5aacf95719cc9f584993,1767,1843,Newport,RI,"41.49032, -71.31363",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+30e3e14aadbdda4816ca2fa4b9f62c1065c5fbe2c4eea785f7af5b99f2194b9d,1767,1821,New Bedford,MA,"41.6355, -70.9336",United States of America,Smithfield,RI,United States of America,"41.9217, -71.5481"
+08e721f6ea86abb1d8e8e05ad61db7e9da359a2072e23f927a858a5394f48399,1767,1834,,,,,Boston,Ma,United States of America,"42.3555, -71.0603"
+b6c58cbf5404fb6e9dcc22d2375816d55098c01c058394769493e2fb928597c1,1767,1804,Johnston,RI,"41.83069, -71.54211",United States of America,,,,
+be6715d5fbd541211a7a09e0dfd00cfc65b5219980706bde0f7ac5705be74612,1768,1828,Norwich,CT,"41.5243, -72.0765",United States of America,,,,
+c669907bb3d536babd17948c50f4da4faaf1c5fd4767451e922fc2e88c933986,1768,1848,Newport,RI,"41.49032, -71.31363",United States of America,,,,
+7ea85a68780464a5c8c3bf352f37d9ce46081d5b57e330be64cbb65f522bffea,1768,1841,Providence,RI,"41.82442, -71.41251",United States of America,Nantucket,MA,United States of America,"41.2729, -70.0948"
+b0fb7ecb7f96e53a8beef50035f8553c7ae6d79a4b4b9a9e38340c797571c990,1769,1835,Beverly,MA,"42.55106, -70.87881",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+a52ab46af559555e67c26213273aa672fed6d9b3284437301079b4007fe1e9c8,1769,1835,Sudbury,MA,"42.3824, -71.4180",United States of America,,,,
+96d1407fb098181cc533044dbfc22318c8e504c8f7bd63c1b80e87df355706f6,1769,1851,,,,,North Providence,RI,United States of America,"41.84987, -71.46598"
+a8a22c4656f8cda871905daef3235f7c0e115b8f2d44ac894d5c68ddc45652c0,1770,1824,Providence,RI,"41.82442, -71.41251",United States of America,,,,
+4c9380ddff4411f0c62dc15ea941bbcae64d02d3cd8e84b483b6f2a55102969f,1770,1833,Falmouth,MA,"41.5520, -70.6112",United States of America,,,,
+1a2bf03b4f0057e7987eedee81a6981562bdf5f0b879df50a7ec7e03631bec5e,1770,1851,,,,,Pottsville,PA,United States of America,"40.68493, -76.19551"
+75dfcdae7ab4c6cc03e010dbb171d8b3c849ee5540c30968b8e457b95e939626,1770,1842,Providence,RI,"41.82442, -71.41251",United States of America,,,,
+d3bab07e15713f44d50181c7e76d4089d13ad748f1ed3be19634b8c005d60bef,1770,1853,Somerset,MA,"41.7693, -71.1296",United States of America,Providence Neck,RI,United States of America,"41.82442, -71.41251"
+4d49cd060a58348b2d640aa436dccf40b50d898304c38ba60d38c5d1e724b996,1771,1838,,,,,Cranston,RI,United States of America,"41.77899, -71.43723"
+228a4905a74b55a7139eee2fb922fced563de0230cdcfa35ee65ea94a83914d2,1771,1838,Attleborough,MA,"41.92482, -71.34976",United States of America,,,,
+f76cf6d7117ba6ea748494c9dd95b2643501024f86e817def473e2609f59aeb6,1771,1812,,,,,Smithfield,RI,United States of America,"41.9217, -71.5481"
+b249e76103385adc98bf9609ccd2f81485e255084e8b2aab01f2f70715374329,1772,1800,Johnston,RI,"41.83069, -71.54211",United States of America,,,,
+b0a5b4ea9b053d734fff49da71f71f3cb0880f33a134d523f6578164c71d62d2,1773,1843,Boston,MA,"42.3555, -71.0603",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+bf65c15300460f5fd94909225c7a11306d41cc29c85d3cb34f835038048a335e,1773,1843,Boston,MA,"42.3555, -71.0603",United States of America,,,,
+3798a308da59f56ec38596d4bd935db4f7851a94d1fb3d74926680b4f768fbaf,1773,1849,Providence,RI,"41.82442, -71.41251",United States of America,Smithfield,RI,United States of America,"41.9217, -71.5481"
+d77af62265933938a3f1b38c0621f21c0c05b61e14b7983933c401aaf3a56a2d,1773,1849,Taunton,MA,"41.9007, -71.0942",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+b202ef372c3e7535c93dabd091a7615f6851b6af90760400b077168d839e39e8,1774,1863,Town of Plymouth,Island Mount Sarat,"16.70542, -62.21240",West Indies,,,,
+b472b50fd270706116b649d2285593f34855c5fc48afb4b4d97f09d38ed9dcbf,1774,1837,Dighton,MA,"41.81495, -71.12051",United States of America,,,,
+c5709b287913713ddf8e665227722aeec83242f144b4ea124ea9a888d5c3cc22,1774,1840,Rehoboth,MA,"41.85396, -71.23999",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+da56107479867d172b78958cdb85301e9566156ce04b5c5cb460c66f30f8bfbb,1775,1824,Templeton,MA,"42.5554, -72.0679",United States of America,,,,
+21549b55db38761aed41a1679b335819f9a23556956deb533afec4860a6a70bc,1775,1837,,,,,Warren,RI,United States of America,"41.73033, -71.28256"
+2f1f06a03eb540a8ec452af8be5d092215b991a008f9adac6f757fa170676ecb,1775,1831,Halifax,MA,"36.76584, -78.92844",United States of America,,,,
+18fc1d55997c51c681a937972012e45cfe0416b7947167747e7c2f32cfa77ade,1775,1836,,,,,Washington,TX,United States of America,
+dfd6acf764ddf6d8a78efe0da94dfe796fb9e927b3dd7d719d8c1f7524facc39,1775,1857,Cumberland,RI,"41.9638, -71.4314",United States of America,,,,
+4714b4d6fa24ca940f0db70ee43ca7cabf366692080d211f12438905372e38fc,1775,1816,,,,,Slatersville,RI,United States of America,"42.00033, -71.57962"
+062562835d7ac1a8c7502ee01c8a9ce01f1ab9c1e4c8407057a0c50feccd4be1,1775,1823,,,,,Marietta,OH,United States of America,"39.41723, -81.45538"
+ebfc96bb23744ff71d07b8afe986ec177171c3107b25e048a4406a00a52022ce,1775,1858,,,,,Providence,RI,United States of America,"41.82442, -71.41251"
+c729e2ceff49edd7afb54e341d1b6189d53b17ddae16482d693823b57b322fbc,1776,1862,Scituate,RI,"41.7854, -71.6099",United States of America,North Providence,RI,United States of America,"41.84987, -71.46598"
+b7aa1f6d7902e804864915acebf6905f30c238067a7aa1434aaf4e8b665e423e,1776,1796,,,,,Cape Nichola Mole,,Hispaniola,"19.80692, -73.37648"
+2eeb4b9bff6ab35ef8bb7e1a087daf23e3b6d3050d502762462510184f46ad35,1777,1822,Belchertown,MA,"42.2773, -72.4006",United States of America,Louisville,KY,United States of America,"38.2506, -85.7545"
+38dc710bf245311ab5cd7c8aaaa8f000573a8b858d6165eea49fed77e4efd5cd,1777,1844,Keene,NH,"42.9353, -72.2784",United States of America,Franklin,MA,United States of America,"42.0845, -71.4001"
+421b0096137f514799100650ad5ff9d28dfac2a761d778f5dd619442fc10f052,1777,1835,Woodstock,CT,"41.9483, -71.9721",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+f184be58f2d4a49589c1453ff26961375a18f603b95866aa737f12655b48004e,1777,1850,Warwick,RI,"41.7001, -71.4595",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+a6f75799c6b01fa52138a2d104c84a586abdf5057b76148d131311d84d64e856,1777,1820,,,,,Providence,RI,United States of America,"41.82442, -71.41251"
+87d8ffa1a98a61f4b37688564988dacc79fb7acb1e61d33a4299b5f5b28ddbef,1777,1839,Newport,RI,"41.49032, -71.31363",United States of America,,,,
+350b84afada1abf3e714e1b2320f33713fcd05d6bf849bb53bb459cb9fb8f958,1778,1853,New Haven,CT,"41.3088, -72.9259",United States of America,,,,
+8772712b4bc17d6e4c82e804d1842aa55e40e30c6d7b635428f09b70ed434499,1778,1820,,,,,Cranston,RI,United States of America,"41.77899, -71.43723"
+7c2811a8ea3f86574afa7a788640b63dabb1bd66020f8ed01b2ea50034e9d82d,1778,1796,,,,,Savannah La Mar,,Jamaica,"18.21867, -78.13296"
+5082333b99eb490086134bf695661a628b9879d1d752d7741b82605de925c05b,1778,1857,,,,,Dartmouth,MA,United States of America,"41.6272, -70.9717"
+dda62eaa574993e1928be02bf8cb59b5b36e80a848cd20d82eff986cd843616f,1778,1821,Cranston,RI,"41.77899, -71.43723",United States of America,,,,
+1ce79a6aee827fbbae62cc517b267ef696d3773d73247517d524fcc26170b14c,1778,1859,,VA,,United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+ab4d99bf5cc5de97db44333b8ec770d62285d88bd6d05b3c48976aa37fadb3bf,1778,1796,Cumberland,RI,"41.9638, -71.4314",United States of America,Bassino,,St. Croix,
+3cd30527a7c78d695db13ec58824fc52a3208ee33506d7d0cdb6e24d328ee869,1779,1854,West Newbury,MA,"42.80107, -70.98764",United States of America,Providence ,RI,United States of America,"41.82442, -71.41251"
+7c78dbf1be62f8906717c5005b6ef5e9ad247f54779e2cc196eb1c16e1dba6ea,1779,1859,Providence,RI,"41.82442, -71.41251",United States of America,,,,
+ecc0bb4ab00c734d2e074c4a234242c9db6b8305f2b656a1e9fe320d8505b15c,1779,1815,Saybrook,CT,"41.29200, -72.37587",United States of America,,,,
+8c2abe713a7bd5d53d78dde1543db1e3236531a43ed88c7009bcdbb9322b6d4e,1779,1845,,,,,Providence,RI,United States of America,"41.82442, -71.41251"
+ab4e7fc8286711b21a048ceb8356f955d3898db8441ea409a6070cb6d04dddc6,1779,1798,,,,,Havana,,Cuba,"23.1366, -82.3611"
+94c22c88e3982fae717acf911a08aa41c80bfd08a0a493d2d608f1ccd0596001,1779,1873,Bridgewater,MA,"41.98910, -70.97425",United States of America,,,,
+afd57bb0c9edadbb97a124a5be56e19b349d6187caa7b3dd755c572ea731de9d,1780,1811,,,,,Castine,ME,United States of America,"44.3887, -68.7967"
+53a59d8564439704024cab08c3bb70dc8cf063fb5647553812188a3938cf0373,1780,1818,Rehoboth,MA,"41.85396, -71.23999",United States of America,Wilmington,NC,United States of America,"34.2317, -77.9415"
+54cdecb55df1b40a87923c7ef9cef766013ecc97fd8289a720b5de5ea4c76840,1780,1865,Swanzey,MA,"41.74916, -71.19123",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+cdc33426fc8f0ce5d77e6025e368bc8abf0f9e32a61b72c0a5c1a3d092215391,1780,1784,Cumberland,RI,"41.9638, -71.4314",United States of America,,,,
+9d880af5a69d777e398afe80195742eee20ae251f17f3c61a25763b171896b75,1780,1864,Mandon,MA,,United States of America,Smithfield,RI,United States of America,"41.9217, -71.5481"
+7e3f8a01bc8ee979e7c2cfade0bdedefe9941fb7389d51b98b2d1c1c0e2d5cdc,1781,1854,Dighton,MA,"41.81495, -71.12051",United States of America,,,,
+d425b7df8cfaa4a1bd59b66fdfc2cc01bb148435f892a0d4f4c411f1887e2371,1781,1861,,,,,Warwick,RI,United States of America,"41.7001, -71.4595"
+0e67639e2998f4fd51c2f04c6d9c71f434340eee8b8df513d9fc8153c893b271,1781,1833,Warwick,RI,"41.7001, -71.4595",United States of America,Pawtucket,MA,United States of America,"41.87915, -71.38178"
+1d2a4863e857e800f64e2f01b10408bbe65dd198f42743b9304ff5e419bc4381,1781,1855,,,,,Newport,RI,United States of America,"41.49032, -71.31363"
+d1553017ec277f83ab856d3348b1b595014564d5b51e470a6deade2cfa39cd00,1782,1807,Cheshire,CT,"41.5006, -72.9012",United States of America,,,,
+b556b86fe8bc7a9c3514f10cbb88ccc315342281daaf3e61dfb65697cedeebf3,1782,1821,Killingworth,CT,"41.3583, -72.5644",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+4f6de90bb14fb82523ca830e105037720786e71d5c3439ce062aef970b3c2a98,1782,1865,Newport,RI,"41.49032, -71.31363",United States of America,,,,
+904d4b62d37b8bb49f97cc7da2fa6f34c6d43de18253f185ab5963006ab06aa8,1782,1845,Foster,RI,"41.8514, -71.7579",United States of America,,,,
+15abf7c6c284cb3c9a781456116d49c7b63d9b60b508f1a16415d995e640686c,1782,1837,Johnston,RI,"41.83069, -71.54211",United States of America,,,,
+05bf9516fc4a0f6fd869c6b162f4afdacdfeb9aaca922cd2c982cb8f5c9d82c4,1782,1863,,,,France,Pomfret,CT,United States of America,"41.8972, -71.9611"
+9d278269bac817de40f9ad00f6fe8d4534571c00959790da7158a171abd8348e,1782,1867,Douglas,MA,"42.0541, -71.7404",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+afc2e50762c3a394b7f1b7d0d2ba1426f94052b5c73801e71c04932d29b0aac7,1783,1864,Providence,RI,"41.82442, -71.41251",United States of America,Bristol,RI,United States of America,"41.67714, -71.26745"
+5b09083ae9c4c873882dafd6aadb8bcddb21ee96a020cc107d93351d70454503,1783,1803,,,,,Marseilles,,France,"43.2992, 5.3703"
+c6939d47b35dcae977f8feba597d61ef3f248646eb588f4202a6af899cfdcfae,1783,1810,,,,,Wilmington,NC,United States of America,"34.2317, -77.9415"
+dde91ae0574ff3df4b532df7e3a2d442c38fb0a6b61dad7b148ce5f1e2280589,1783,1823,,,,,Sandusky,OH,United States of America,
+2b92987ed5a01b1f122804ef5a1bafd0e04f96c2bc6632d9be9df81d79cb7257,1783,1878,Lyme,CT,"41.3948, -72.3525",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+14f6bdcbaa5e82da7b353769342e4b48e207d77256367d59212dc755abab175d,1783,1861,East Greenwich,RI,"41.66073, -71.45525",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+22feebbb922949280b0f274d95f1bc395168259b1a71917a898103c4cb07ce81,1783,1850,Providence,RI,"41.82442, -71.41251",United States of America,,,,
+c449be2caaa8d33dc27c56502d6b132293bc79e89314af986197765174ae1712,1784,1848,Rochester,MA,"41.7355, -70.8220",United States of America,New York City,NY,United States of America,"40.7098, -74.0094"
+2069f7b7591f8dd1cd25374e69e985335d2ad22a6a2df615e53d5acbbfa33eec,1784,1803,,,,,Havanna,,Cuba,"23.1366, -82.3611"
+509c58a5142a96098018e6e2d98cb7d63f9064bc54b449a8f52831999d7120ad,1784,1860,,,,,Dorchester,MA,United States of America,"42.29687, -71.07450"
+4140e73b78f0184e35fa8c3694bf7a13e20481689caeb87799007243b2916ed7,1784,1835,Salem,MA,"42.5199, -70.8972",United States of America,,,,
+350144a2f6f8890b3612b2e6c972d928a1e589b98d92fc9a59f464c2a6db5b27,1784,1820,,,,Wales,Mobile,AL,United States of America,"30.6917, -88.0410"
+aab379afbd82395a9794873704bf8a51114139d4d4676d3e727e5377cae22868,1785,1831,,,,,Buffalo,NY,United States of America,"42.8880, -78.8798"
+317ddc08f4dd11f12e451d57b5df7872be40f4ff689312d994ad1316d87f4a95,1785,1822,Rochester,Colony of Plymouth,"41.7355, -70.8220",United States of America,,,,
+d27b4c73162ea31adfe7b2338b81d6e25253e85aa66cf37d12dca3ed1d6462c9,1785,1863,Newport,RI,"41.49032, -71.31363",United States of America,,,,
+133192ae3ea7d9c9fe7afd81e7206c83405d5a6698779c3bb746f0b999f2d74f,1785,1806,,,,,Boston,MA,United States of America,"42.3555, -71.0603"
+8505ddb982dd6427284b6b919c04289c2efec90575c6cb8f644b0cc4649e5b9b,1785,1854,Warwick,RI,"41.7001, -71.4595",United States of America,Pawtucket,RI,United States of America,"41.87915, -71.38178"
+309784e875b7ab6dbe9ecc6cc886866c6f39366a93a39e5eb0d6ccd20b6ab983,1786,1865,Attleborough,MA,"41.92482, -71.34976",United States of America,,,,
+d06d3c2679c97eef2935d6fdfe36ee6b42f0c229ab87b2203dc4e2d502c278b6,1786,1857,Rehoboth,MA,"41.85396, -71.23999",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+df37646c99783383e19415be10b581c6903ed8aea303d0de75239ff242cfb432,1786,1846,Baltimore,MD,"39.2921, -76.6084",United States of America,,NY,United States of America,
+614d833bc45cebd6458bd5765393d675302a9e2810cbeca6d6c4832cdc2b6d24,1786,1858,Little Compton,RI,"41.5091, -71.1701",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+9a72930c1f46e48fe4edbfba36b8a7b400ed03a376dbb72f6a875f6931daf9a8,1786,1814,,,,,Havana,,Cuba,"23.1366, -82.3611"
+a159be1900d20b8332a8a1cfd9a1afa104286c67a3b2cc93eeccac1e8f1c75cd,1786,1837,Swansea,MA,"41.74916, -71.19123",United States of America,,,,
+53cfcb818c477abf954ba1c0fc6478105646ce5130c059d29514deb7671b810e,1786,1821,Douglas,MA,"42.0541, -71.7404",United States of America,New York City,NY,United States of America,"40.7098, -74.0094"
+bb592ec1e5a378a7a35383e97dab787ef11f11b6a7420303a34a3c07b953ba72,1786,1821,,,,,Newport,RI,United States of America,"41.49032, -71.31363"
+c4cf17f67e094d90e56073176ad694cd66cee60e44af4c474c0599e118a929a9,1786,1858,Newport,RI,"41.49032, -71.31363",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+9ae4d4f3c94360db6e7300a2c3156e90c0bd6de6ff2ee090f27bf2148644ad79,1787,1923,,,,,Providence ,RI,United States of America,"41.82442, -71.41251"
+266752325fdab877e2362dd5ffc73ce70c545e49bf47e6259dbe3a28f08308de,1787,1867,Charleston,SC,"32.7879, -79.9379",United States of America,,,,
+ac94345b1f05ed6b4e3d1a66c3bc0d427d8095e757b611fcf7b532d1f47c243a,1787,1850,Swanzey,MA,"41.74916, -71.19123",United States of America,,,,
+f50107a758eb939f1723c0fe2558ad20035661626e6ba5ebaf7bfad2ad0fbd84,1788,1850,Cumberland,RI,"41.9638, -71.4314",United States of America,,,,
+f68a3af8e264b20d771953491dff9e8f446d233b0d7c583c39d0737c91a69276,1788,1832,Providence,RI,"41.82442, -71.41251",United States of America,,,,
+98dd9d3daddec7a5be999b8cf526d5b7cbaed0b6a355895d5a57e8594f6d4b03,1788,1819,Braintree,MA,"42.21962, -71.00533",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+bbd3d820001dcc8dca495718972fbcba2be58e3f9d073cfc55542f914f0ac06a,1788,1850,Wayland,MA,"42.3649, -71.3583",United States of America,,,,
+8d5254c5cd47eb15aeaa2609710b2038847e3d74c16c44ff743cb6502fbf41fb,1788,1819,Braintree,MA,"42.21962, -71.00533",United States of America,,,,
+97f407cb33daaf682e66ab70619718ce3c8ac3b8bf6093c06da57029f2142fea,1788,1871,Glocester,RI,"41.9115, -71.7160",United States of America,,,,
+3da88d789cd7aba662bd56354717f39f2bf1c39605d8e5c6afa6bd9f7fc72361,1788,1860,Providence,RI,"41.82442, -71.41251",United States of America,,,,
+b83baf59c3d155bc87de867f080f47070a19c1aa11f02e3c5d657b0319ba3616,1789,1870,Weymouth,MA,"42.2201, -70.9387",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+b6180fee1ccc687abfa45a113b845b4ba5629921e8e9552bc6cf4e18f91962ee,1789,1833,Attleborough,MA,"41.92482, -71.34976",United States of America,Warwick,RI,United States of America,"41.7001, -71.4595"
+894035026bac8d4652285ffb2e9b6aeb576ad1e5f254363ec4072cee8c28a3ad,1789,1879,Alexandria,VA,"38.80507, -77.04763",United States of America,,,,
+c4c8a672e2333786ff817474f0ef15e45e099441a2e97d9d663e6dd2a370ea83,1789,1809,,,,,Fort William,,,
+677a858c85ef393a0de413ce7e3aa80d7d41ebc9c9e9612e5554b28a9bb962df,1789,1842,Harwich,MA,"41.66958, -70.07732",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+90f75473c82b3bb941e64cd8439c53bc6001930a63136cf98918c35e9c3c0ac3,1789,1872,Alexandria,VA,"38.80507, -77.04763",United States of America,Ann Arbor,MI,United States of America,"42.28163, -83.74887"
+a246fa61c7d2686ce1ccec1aabeea99f70bb4fa977b5285ab583a67b986de862,1790,1844,Taunton,MA,"41.9007, -71.0942",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+7e5b525068021c895a66d56d1411cfbb100f4d4f6b31175e6d065c0618c7be95,1790,1861,Plainfield,CT,"41.6770, -71.9134",United States of America,,,,
+e87287a7a681f570b339eb5a1084c7ccfff3060386ef383e04759df2d8846bb5,1790,1846,Hudson,NY,,United States of America,,,,
+da5e468bce36d7968c8d6415a28ce906c99e3e3c25f2d9a412bce9d0f9847a2e,1790,1866,Seekonk,MA,"41.8077, -71.3325",United States of America,,,,
+92212dc64a7f6d9c15979ea4b0fc64527bcf3adce598d91e770f54512840b63f,1790,1868,Taunton,MA,"41.9007, -71.0942",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+b27d2d70c7b73ecaaca3fd7cc38aeb25c0bc6ed9994d8e769d8f49cf560f62ec,1791,1826,Foxberry,MA,,United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+39e74acf71413523f70ff627ebe7e0d9343f2155848a3774066d1878e8009155,1791,1849,Wickford,RI,"41.57430, -71.46177",United States of America,North Providence,RI,United States of America,"41.84987, -71.46598"
+68154c8bad47eb42bf322ea9e4be92d7d7ce7d525c377c3e4107297d533256d7,1791,1864,,,,,Warwick,RI,United States of America,"41.7001, -71.4595"
+046275fb9f1079639df5bcc68d0412febd48ab415424a5d85ebba97cc700930b,1791,1822,,,,,New Orleans,LA,United States of America,"29.9775, -90.0776"
+1d2abdd550c834fbc95a8cf707a5c6c5a211a81746c7677c1891b446863c4a03,1791,1865,,,,,Danville,VA,United States of America,"36.5860, -79.3924"
+b769c79b2765d3cc364f3305bedc5066bd8231f4a46e261a2d6168cf46410679,1791,1851,Harwich,MA,"41.66958, -70.07732",United States of America,New Bedford,MA,United States of America,"41.6355, -70.9336"
+35531d041bd897715cc97237d3fa86a558b62276a670e42ddc8bf547055927e7,1791,1861,Scituate,MA,"42.19219, -70.72668",United States of America,,,,
+def3c6f92c50161ae08614891e7bc12fd7fc959baeaccbb40d7d61fcf392ea35,1792,1819,,,,,Millegeville,GA,United States of America,"33.0797, -83.2331"
+0fbacea9f6cc4728c0081cf1d4fd27406bd818cb19aecfac0d3ae9f2aef06e1b,1792,1855,Colbert County,NY,,United States of America,,,,
+b04b6f46addd18f23c43897e9e83bb185d300887bb28c13f221d25465af67fad,1792,1825,,,,,Warwick,RI,United States of America,"41.7001, -71.4595"
+8094b624bc27de8b0619e8ef40248e453f4af4e35d729d70900e36f87484e187,1792,1841,Providence,RI,"41.82442, -71.41251",United States of America,,,,
+6e61e5d556e3785bcb10d0fc0affa57f56af82cc577e7af4d5b7b45f7554b219,1792,1794,Philadelphia,PA,"39.9508, -75.1643",United States of America,,,,
+e5b630e26f73741bc74b05a0fdc6f2704c3f67ac66e34524e8c101152e6b7cb4,1792,1821,Barrington,RI,"41.74045, -71.31294",United States of America,Balize,,Mexico,
+b4fe3853176dbc810bc349f57bcddc02a2c16c8c38a8ba793722d3676441a19d,1792,1881,Newport,RI,"41.49032, -71.31363",United States of America,,,,
+2c953febd436e630f63654a2a94e82fd2c4d8017638f5a00cf72822b49a38b8a,1792,1871,Baltimore,MD,"39.2921, -76.6084",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+9c5a3e496136e41e8053c5350667217d7903b984336fbeb06ba8dea5998414c8,1792,1878,East Bridgewater,MA,"42.03285, -70.95812",United States of America,,,,
+6a4cae762f16f4a34578c97530a7809b4b3dc8b885d7d259d6a068a5c93be65e,1792,1872,Taunton,MA,"41.9007, -71.0942",United States of America,Smithfield,RI,United States of America,"41.9217, -71.5481"
+71408d945b1b94aa476186b106adbdc7531465f12d589b45431032c98b046d81,1793,1822,,,,,Pensacola,FL,United States of America,"30.4223, -87.2160"
+307868c6da9d0a4eae41d413270a5d52020b8561bc5ab67b218cad092daef6e5,1793,1871,Brooklyn,NY,"40.6525, -73.9517",United States of America,,,,
+5ba9a3e1a3961455529aa010f219e3167e6e082901c1e9c18169c0af94467911,1793,1855,Wachienhein,,"49.63668, 8.16559",Germany,,,,
+e7b0a44a2f20c215e4e08843ab31f15fb521d69204a97acf6ca4e5649b55e859,1794,1821,,,,,Havana,,Cuba,"23.1366, -82.3611"
+4404ef17d8d3727b0d8db155071e77110e15079cd6a7a95aa932bbf3658f1f91,1794,1832,,,,,Brooklyn,CT,United States of America,"41.78795, -71.95015"
+c7fbc758a9266e13b36214cdc5dbe75df9404e389e2380a0808a011a1bb68ace,1794,1857,Providence,RI,"41.82442, -71.41251",United States of America,Warwick,RI,United States of America,"41.7001, -71.4595"
+2de1f32441912b01a8469a60dc77dde17f5c0c1e9cd9b2f9165e9638f0f78e43,1794,1865,Newport,RI,"41.49032, -71.31363",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+fc8154bf826a57cf06158f3bb923a7e8ddad046043a745dff594dfbb69c020f3,1794,1834,Taunton,MA,"41.9007, -71.0942",United States of America,Indian Key West,FL,United States of America,"24.55446, -81.80171"
+8141c041826a76d5b1c01ea8dfcce652faa15ffd49c5162b56e98496981e4099,1794,1842,,,,,Matanzas Island,,Cuba,"23.0453, -81.5804"
+7244b90b73e26b034f31ffcf752c1668a0ecec9b63956a5d8e17da84a0a99ac3,1794,1873,,,,,Providence,RI,United States of America,"41.82442, -71.41251"
+687187e99c672da63df613ef30193e47e9097c89c62240854645f04362d043ee,1795,1853,Charleston,SC,"32.7879, -79.9379",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+64747331930d0e2d5b0d910fd6b793e95e3b1a7f92e2778a428f868d64375c7c,1795,1843,,,,,New York City,NY,United States of America,"40.7098, -74.0094"
+eca4bac49e96019451393624d0458f129ddc7f43225cbe1e5cba2bc18ab2915b,1795,1869,Taunton,MA,"41.9007, -71.0942",United States of America,,,,
+044ef6a99851310d6d018af5651fb8c640d8687d24ebca65b6983548018aef3f,1795,1812,New London,CT,"41.3554, -72.0992",United States of America,,,,
+69b5392c7ae85b7111493eacd34b84a9407a9a36a984874df11bbe0535f7642f,1795,1846,Rochester,MA,"41.7355, -70.8220",United States of America,Mattapoisett,MA,United States of America,"41.6588, -70.8138"
+cf725c56981d3ce32f04ad8cd59d920716211ca2f020998fdbdd0830f1f5a17c,1796,1872,,,,,Newport,RI,United States of America,"41.49032, -71.31363"
+f42dbd176e65e1e529f0775fe6ceafa89e8e02c5741d895d76ef1e8b2da27a04,1796,1866,Philadelphia,PA,"39.9508, -75.1643",United States of America,Warwick,RI,United States of America,"41.7001, -71.4595"
+7a92c7b76ce1f7f5278c3a3501d3485a8f9aedda9f18290957b35a591b2a07ad,1796,1875,,,,,Salem,MA,United States of America,"42.5199, -70.8972"
+59f3cd7505c4630f4052d379d23ce8dd0254f8b7ecc7bbdd006af110b4607808,1796,1856,Worcester,MA,"42.2623, -71.8025",United States of America,,,,
+53d634fae7ea91bab19b82970a8a78bbb4ddbf7029334597e81faec12a66c462,1796,1848,,,,,Boston,MA,United States of America,"42.3555, -71.0603"
+c3eb4f44e8f2667abfa49bc0cfc3f524bc69771efc8fc0bd682a7c32b3a511ea,1796,1859,Franklin,MA,"42.0845, -71.4001",United States of America,Yellow Springs,OH,United States of America,"39.80471, -83.89392"
+a65abf43f39ef7dbc511c087b7e42025d42c47c428e2e02a0e32b62e170f547d,1796,1868,Providence,RI,"41.82442, -71.41251",United States of America,,,,
+97478744c9e9722f17a527ca3919923523040c41cb9d86d8b47e26e912d6f480,1796,1868,Westfort,unknown,,unknown,,,,
+4a777b450d839af0c9b81861adcfd6563f7e81a1e55bd7624f4270a6f2c4b23c,1796,1839,,,,,Staten Island,NY,United States of America,"40.5821, -74.1481"
+3f315bb275bbbb1c9d8f7da6877b78dd44bf21a00b99ba0e058d2114d6737ca5,1797,1826,,,,,Scituate,RI,United States of America,"41.7854, -71.6099"
+12a43dfc3a78ccebf689085e6cd42c036f5a938aafcfaa7216794129986afe58,1797,1841,,,,,Peekskill,NY,United States of America,"41.29006, -73.92005"
+96d62eb144564a76ec39c7e8394c309c5d61127a9a9048747ac3dd44bc5ce8c3,1797,1859,Newport,RI,"41.49032, -71.31363",United States of America,,,,
+06294a3d29828a6364c084b07ec0a1b3f875b65323d0e384b8b69cca8b9fbd31,1797,1876,Newburyport,MA,"42.81316, -70.88053",United States of America,,,,
+71e93cb2806cd4369b37e97a9466879c23133ee245455851b331253e2f4f0afa,1797,1832,,,,,Albany Street,NY,United States of America,"40.709955, -74.015826"
+bbb7f79bc3d05a2041325d01bc3fcd5fa1f25a186651276dfeebf377561b09dc,1797,1822,,,,,Charlotte,NC,United States of America,"35.2254, -80.8415"
+9495c75abfbb890b110f8e62c7a26e080572d9d4cca54dcffcae0d7bb5befdc5,1797,1853,Taunton,MA,"41.9007, -71.0942",United States of America,North Providence,RI,United States of America,"41.84987, -71.46598"
+34af86660c11ee00ce8bc60728b8a7bdf4f6ec43b4ae625a35d5b427c50d78b1,1797,1852,,,,,Phenix,RI,United States of America,"41.71982, -71.53228"
+de3e5b61ef63d824c4d264b56c77c00a9ccd8f906268db7daf4e11a500e6a72e,1798,1872,Dighton,MA,"41.81495, -71.12051",United States of America,Morrisania,NY,United States of America,"40.82927, -73.90615"
+0c4c5599db3b6c554621408d73a366a8f0891bac6359364112f956bd66373124,1798,1865,Attleborough,MA,"41.92482, -71.34976",United States of America,,,,
+626791906815bfcf79120eebdadc578e022aa52d07edbb9517f9f61dbbea5198,1798,1818,,,,,Savannah,GA,United States of America,"32.0773, -81.0949"
+516c304d2e7b112c2b4c6531907c73cdbddd6fa69d31a437b17bed5a19dc95ea,1798,1867,Providence,RI,"41.82442, -71.41251",United States of America,,,,
+8cf1e78adee812954317ab9f538ecdaa27ea15918f3031a9cc78e0b5d02493c0,1798,1829,Harwich,MA,"41.66958, -70.07732",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+cc5c09bb5c25ccbb271f0ee9d71c1e2e857dc8979e0dec70334900918947a1bc,1798,1863,Providence,RI,"41.82442, -71.41251",United States of America,,,,
+f3fceac1f32694777ec134cc971958e4e6f3404267f48cf558e580de659aed06,1798,1871,Glouchester,RI,"41.9115, -71.7160",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+b523bf0735b6dd521ef010c0aff0e53610227454eae16a5f9e8ff29ca32cc2b3,1798,1872,Taunton,MA,"41.9007, -71.0942",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+a5aae2f820fbc9ec750043ceca37d50519d89fa4df46f59cf155387c2e966698,1799,1830,,,,,Baltimore,MD,United States of America,"39.2921, -76.6084"
+e4a7ae1443762a599f02fb620b399fa5e5dfdb6add1e290ece5feed3b7dea1cf,1799,1877,Taunton,MA,"41.9007, -71.0942",United States of America,,,,
+fe5862a8b933e5e8724c88528d97c1d73933c65bab0ff3b45c0cdb25f7f2de3d,1799,1855,Providence,RI,"41.82442, -71.41251",United States of America,Utica,NY,United States of America,"43.10061, -75.23283"
+46f1dc9bf431bca1b42030642e16c5638ea7cc0b2f782ec2fb776591e26033a0,1799,1817,,,,,Glouchester,RI,United States of America,"41.9115, -71.7160"
+4854d4f7e9cf4d2a875ae85c7e802b2828b0d2e9bb849252384c67ff0162b1de,1800,1837,Newburyport,MA,"42.81316, -70.88053",United States of America,,,,
+2e043b5ef322c0848135937a1a588a8c75b7c6c03be9d493a4832bb730bb6d2b,1800,1858,,,,,New Orleans,LA,United States of America,"29.9775, -90.0776"
+b42d05af7afff62adeddc741647cf177e670b0697b631bac3226c87ba917bf81,1800,1858,Mt Vernon,NH,,United States of America,Newport,RI,United States of America,"41.49032, -71.31363"
+0e48d4546970f33c6a4c196c17d7c3981eeb4b84fc8d97bff4c031866195d49a,1800,1845,Killeling County,Tyrone,"54.694, -7.171",Ireland,,,,
+4ff231f3a14be0605a6ffd379277d5ffd0aa65c5fa63df611ef347867dc18a28,1800,1835,,,,,North Providence,RI,United States of America,"41.84987, -71.46598"
+e2cb00e116b48c1307b84521164bc5ea564d9806a38f1dd05d91b25578204bf2,1800,1880,Newport,RI,"41.49032, -71.31363",United States of America,,,,
+9af75e96ba428193d6cb11f729193d5a39137d610038dc5f281e8162f8951269,1800,1852,Augusta,ME,"44.3155, -69.7745",United States of America,,,,
+53d1fe5d5b45874c67b4d361a595f8011b7fc3006843d357d5ba15c2eb1bba6c,1800,1873,Newport,RI,"41.49032, -71.31363",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+1dfb102f6c98a955cd72da9f6fc24a2d1ea892d5ab68f5081b263fe91a217acf,1800,1857,Harwich,MA,"41.66958, -70.07732",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+e4f46dc7f1403fc3b74a6b5b16dad3cde342b230a1e2f12096e59931e907a727,1800,1834,,,,,Enfield,MA,United States of America,"42.31020, -72.32729"
+d278096ac68c24cbd0b97ea17b79e12f4011be7e2abfcf38029ab954c536cc0c,1800,1830,Franklin,MA,"42.0845, -71.4001",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+f48132b5a890c174621c9781e65c26d0da9c61244d33466e6730d20beeeaf447,1800,1855,Scituate,MA,"42.19219, -70.72668",United States of America,Utica,NY,United States of America,"43.10061, -75.23283"
+73d49d100ff1971307110acb39be7e16a19646ef72b1711f3db2bf8e1448722f,1801,1860,Reading,MA,"42.52576, -71.10249",United States of America,Putman,CT,United States of America,"41.91505, -71.91050"
+15e286cd60c634946865b4cabdbe7e58b95fd17076747e0684c3da7d4d365431,1801,1869,Providence,RI,"41.82442, -71.41251",United States of America,Paris,,France,"48.8527, 2.3476"
+c9b87a05d52892c14dbaec1d2a7158feea4b0baca8c1fa01e78d8cde2976f15b,1801,1826,,,,,Boston,MA,United States of America,"42.3555, -71.0603"
+0e36fdbe70b25d0d935f0cb1771f942cee67b7093e528004e6406149a7c86003,1801,1893,North Attleborough,MA,"41.9825, -71.3298",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+0aede861441302cdc0108ffef55c10b767d7705240b5f63feaede00739543d05,1801,1843,,,,,Savannah,GA,United States of America,"32.0773, -81.0949"
+0ed4783f07de4478a3fe48ec148c26246eab040f2c74c21d83f15fa3c678baf1,1801,1874,South Kingstown,RI,"41.4564, -71.5423",United States of America,,,,
+f5da2169843f198a920c693220651ebbc6fbacd3c1fc0713472d382bd51e1d3d,1802,1855,Bristol,RI,"41.67714, -71.26745",United States of America,,,,
+42876f31e2dd16dc67ab360920efbb50c9ad05a4ae4219f5553c9210dd6d04c1,1802,1838,,,,,Bridgewater,MA,United States of America,"41.98910, -70.97425"
+2e107d37c77f3476e80cf3ea0ea9476793fd08b545726597fc3045534d265dce,1802,1853,Winchester,NH,"42.7725, -72.3820",United States of America,,,,
+07163cb63032c81de1f2d11b6a44f83df77a9e93b0f1fdbe84384722a102ce4b,1802,1879,Taunton,MA,"41.9007, -71.0942",United States of America,Hebronville,MA,United States of America,"41.90266, -71.32032"
+f35bf508b457c59991fbea3e04e9f3ee8e1d82db3249a71f3de508081097ed99,1802,1874,Holmes Hole,MA,,United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+8ec7211ee518f1a3c8b4cd69e1efbf393844cc0ec74c658a94fed3a970d2e105,1802,1882,Cumberland,RI,"41.9638, -71.4314",United States of America,,,,
+a3d2de11585e442a08e561d5f13c39ef1831236e4033b12a11e5c7f7f0279651,1802,1880,Newport,RI,"41.49032, -71.31363",United States of America,,,,
+1c0c023c1dd4e6ffa84fb06f0270354e714e1d4e63afc2662c73aa84accf568e,1802,1885,Slap Ballanslan,,,Sweden,Providence,RI,United States of America,"41.82442, -71.41251"
+58eb89cd1a24fcfa325a306b02d9a740d59d68d202d028e70287ae7988142370,1803,1834,,,,,Apalachicola,FL,United States of America,"29.72414, -84.99272"
+0999b5b5283d57d7d50426c59a84788edc6361ba1fc741f9c131e73c2f1a1396,1803,1826,Northhampton,VA,"37.3549, -75.9293",United States of America,,,,
+232c9b8d24508578227159511bb4e9a04989d059a20cd19d995ae60f08c19c9f,1803,1831,Somerset,MA,"41.7693, -71.1296",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+e77df70b036b0388601a6517d5789f1c47f9195b2002ff0f01ebb0b993e4c873,1803,1853,Philadelphia,PA,"39.9508, -75.1643",United States of America,Pomfret,CT,United States of America,"41.8972, -71.9611"
+2784c6470f445b1d5055bdd0c21b7afa7ab7e5e9b1f4683b91068c4da7922a30,1803,1840,,,,,New York City,NY,United States of America,"40.7098, -74.0094"
+e0e7e9199e3586e9b1730e4d4fe7db940614b573433e56bd21da2ff05806dd90,1803,1875,Smithfield,RI,"41.9217, -71.5481",United States of America,,,,
+3df53f39259c017d4cb9eb33c504a578426f2cfbf970e92cb84ea8ff2caba875,1804,1838,"Manchaug Village, Sutton",MA,"42.1502, -71.7644",,,,,
+aff3bc04bc7854693bbfcfb5f9ea28bae4c2b8211cdc1ef620b434e4b8b2795a,1804,1879,Warwick,RI,"41.7001, -71.4595",United States of America,,,,
+8a67209fa4f3ae5c349f4ff0e4062242f5d55eb10b077dfb87c8dd528b7a6566,1804,1871,Providence,RI,"41.82442, -71.41251",United States of America,Stoughton,MA,United States of America,"42.12547, -71.10128"
+35fea87cad6bc0344e2a689330256edf0aa22439aba2667170d244714d607d98,1804,1868,Billingham,MA,"42.0919, -71.4757",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+20a4bab6b786e035a54033087290b44957144d9896d7e824950253de3497dfa1,1804,1854,Newport,RI,"41.49032, -71.31363",United States of America,,,,
+389a66d38abb4b83f7900a9a8c5171ed3ef0577aa68e4333f039d0e038f3d51c,1804,1871,Providence,RI,"41.82442, -71.41251",United States of America,New Bedford,MA,United States of America,"41.6355, -70.9336"
+fde2abfa7b6c6ebba0ba0cbab3ffa069a4f1eaf7b460f057be98d0d29eb7275d,1804,1894,South Kingstown,RI,"41.4564, -71.5423",United States of America,,,,
+74753959fb54baeb400f122ef281b620e3ea2bf7e7f56d65e703d4bb41846dc9,1804,1868,Bucks County,PA,"40.3047, -75.1314",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+3bb6686d8b60638449fdddb78dfb5018b91778ea99c098b23b7dcf12dde14dc7,1804,1852,Bingham,MA,,United States of America,,,,
+7afe1542ea3c71b2ca9a7497bdee806a2e7b40aedf72dea8853dece7996a990a,1805,1839,,,,,New Bedford,CT,United States of America,
+ea4344ab587df63903d41ddadd0cee372c6c2c8bffe0a72e5a5237b6f6519fb5,1805,1861,Providence,RI,"41.82442, -71.41251",United States of America,Bristol,RI,United States of America,"41.67714, -71.26745"
+c95f2b95289fad27d3ea7e713d30d80176a361e87fe9cb0c37067a46efd6ad1d,1805,1864,,,,,Washington,DC,United States of America,"38.8969, -77.0354"
+d4d2cb140abb019f4befa43640de1f8c9d96f3f2f17996cc33ad58b61a797e18,1805,1805,Somerset,MA,"41.7693, -71.1296",United States of America,Somerset,MA,United States of America,"41.7693, -71.1296"
+30b75fc8f2af25ce63b3e13e04a1863280feaac7b78b879f3ae217206f944d70,1805,1871,Laningburg,NY,,United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+9820fb6c66bac3093e061a8d0c67b0c001a85c04f91910f45d66dabb2b26bc32,1805,1886,Leominster,MA,"42.5275, -71.7613",United States of America,,,,
+c89152f50ededaaa04717b0227e2b6ea2021f2c444c85ea309138298183c40a0,1806,1853,,,,,"Oregon Bar, middle fork of the American River",CA,United States of America,"38.864122, -121.056483"
+9ccd5ba0db54b1567349612399f89e713cdd01276c1356eeabc6a754bb5a24d0,1806,1837,Hartford,CT,"41.76465, -72.69190",United States of America,,,,
+4a2df7c00cfb7032b2f64556275f07e276ff5f6f6db8be4cf4dee0cc44f1cfe0,1806,1875,Wallingford,CT,"41.4579, -72.8239",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+1ba5ef743fff152b724fdfc0ec6f16ac4d22f83132ef86a61d40e47e0116cc26,1806,1892,Rutland,VT,"43.60824, -72.97205",United States of America,Canajoharie,NY,United States of America,"42.9067, -74.5721"
+6c847f5afe9018c2b87b48de562dcbfb99adb5337ab876e450d3d1a06f1da164,1806,1869,Warren,RI,"41.73033, -71.28256",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+2691252f9f75b18cc2005b93d758a5d483d42714177abcf8dd8f2c3a96e96191,1806,1860,Newport,RI,"41.49032, -71.31363",United States of America,,,,
+ec5b8495e3323c6e7b62b2e5d876d573172820780e214c70b674f8c13ff0d4c1,1806,1856,Harwich,MA,"41.66958, -70.07732",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+5d7c5ec13017ea7a324eee8a1d593aebabe458cf5bff8e374eca0e9bfb0017fe,1806,1873,Warwick,RI,"41.7001, -71.4595",United States of America,,,,
+6108646017a5edc475afa111a1695c1584afee2d39ddcb5568a06a73270841c2,1806,1812,,,,,Smithfield,RI,United States of America,"41.9217, -71.5481"
+68d59f0c508c0d1ffe443466fc09a3d63b4fd16a9652706682dab51484796893,1806,1887,Providence,RI,"41.82442, -71.41251",United States of America,Pawtucket,RI,United States of America,"41.87915, -71.38178"
+3fcac66a81dc54997d972d657562c93f1347549fbc1e7310b655c34822f8c58a,1807,1853,Newburyport,MA,"42.81316, -70.88053",United States of America,,,,
+c5af57f1bec54b751edb5823a1739530679de13f670d674cddc9f164508706d0,1807,1807,Somerset,MA,"41.7693, -71.1296",United States of America,Somerset,MA,United States of America,"41.7693, -71.1296"
+3d2739f6732d4664472e718fe410fa285a275143c2a9cfa3d05d9ce0b4d97877,1807,1853,L'Orient,,,France,,,,
+dfef912aa05aa46beb63760223dfa0ec1f5a0745dce5bbfd1753da2c7c0ffcc6,1807,1880,Providence,RI,"41.82442, -71.41251",United States of America,Plainfield,CT,United States of America,"41.6770, -71.9134"
+9a8dab47dc57832c7ff65338da36e7eb5989030ccd6329b288f908322a52bcd9,1807,1849,Lansingburg,NY,,United States of America,Roxbury,MA,United States of America,"42.32511, -71.09502"
+794799fcbf8ad58aa769ddb1d979140b1430b716be7b040666960145581b8226,1808,1829,,,,,New Orleans,LA,United States of America,"29.9775, -90.0776"
+b74f386e0092680fc02ce763a8adf2a473e0498ba770506057e20d29fab820d1,1808,1850,Exeter,RI,"41.5749, -71.5375",United States of America,San Fancisco,CA,United States of America,"37.7761, -122.4165"
+d3c31217cef882ea6fe85da5c7b58acc156d5f9adf11d1cb32f668971ba5262e,1808,1831,Harwich,MA,"41.66958, -70.07732",United States of America,,,,
+57af6b64065f6a0ce62396f24a23bed39d1de3547d46e4eab8751bf88538f4f6,1808,1845,Sutton,MA,"42.1502, -71.7644",United States of America,,,,
+5d480641bc6b17d67da2afe72dbfb913fd71229c0254e3a86de65393d37110e3,1808,1874,Westmoreland,NH,"42.9609, -72.4428",United States of America,Taunton,MA,United States of America,"41.9007, -71.0942"
+c218551a7df04b6052950ca0c72c29922880bf2f5eaa728893b5e3055dd07e12,1808,1873,Providence,RI,"41.82442, -71.41251",United States of America,,,,
+3ff18eb691261853bd1e716f38e9cd2a4f697066de03987390af96913e557f1c,1809,1850,Cranston,RI,"41.77899, -71.43723",United States of America,Buffalo,NY,United States of America,"42.8880, -78.8798"
+64614672bc6a5b5208cd8bad54c7c8c9d16c355508749754aab379b518436d12,1809,1888,,,,,Bristol,RI,United States of America,"41.67714, -71.26745"
+4c2e68b300f1402feab62f524e2e7e976e6bfe2c0004c9bd464a821d5c7ef32c,1809,1877,Havre,,"49.4947, 0.1051",France,,,,
+1e039fce488556d7fffa893070b06b9a9c8825cedd44e14fc1732e7c2a69f4a3,1809,1895,Providence,RI,"41.82442, -71.41251",United States of America,Alexandria,VA,United States of America,"38.80507, -77.04763"
+1e6637f3524bbeaffdeeef487746b22f00f096cec0a4780aad97bc6890213e69,1809,1849,Providence,RI,"41.82442, -71.41251",United States of America,New Bedford,MA,United States of America,"41.6355, -70.9336"
+db4b83d2baf6e549923cd32abe36d94309b4da86dda1111dc11d8fe0e0298dd8,1809,1850,Providence,RI,"41.82442, -71.41251",United States of America,Chicago,IL,United States of America,"41.8798, -87.6256"
+ee7f9b8a4e2e62c4ec961fa62b8f7413b55d5d0a569e1e8af200220904467176,1809,1883,New York City,NY,"40.7098, -74.0094",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+e95402a8d95829a3a55115689ea61f0fd0bf950f83eacd8420e9b16a91a7057d,1809,1858,Newport,RI,"41.49032, -71.31363",United States of America,Brooklyn,NY,United States of America,"40.6525, -73.9517"
+4d111eed58f1c067ecaeb44bf74a2e0f5a0c66cf359c902d82cc39b288a14d76,1809,1872,Brookline,MA,"42.33304, -71.11931",United States of America,Lincoln,RI,United States of America,"41.9526, -71.4681"
+6d61a04dd5f1293b1799fa9ce06f8289c0ee4135beae5bd5f9fe2876cca1ea7b,1809,1838,,,,,Columbia,TN,United States of America,"35.6146, -87.0333"
+9ae6675bf1aa9dc96aabd036f5e45f09c75e00a35140b29702169ba1572ae0c7,1810,1834,Newport,RI,"41.49032, -71.31363",United States of America,,NY,United States of America,
+08a74fa07fdb308b8d11cc7427fb9535ae04458a1b1c4771cbfc4dbb5a198761,1810,1832,,,,,Providence,RI,United States of America,"41.82442, -71.41251"
+d38698eb60a14382a46cdc621b6a8553a52838400c109a204c9c5652f48a955e,1810,1877,Smithfield,RI,"41.9217, -71.5481",United States of America,,,,
+4a2787d80639525c6a9a6e63111d420774299ca7bd4b6b57bc5035bc5441befe,1810,1832,,,,,Dedham,MA,United States of America,"42.24898, -71.17613"
+49199a4b7ab7accccd3bd4913d0fa9f50e62d5475c52af0300f817c4b7902985,1810,1896,Warren,RI,"41.73033, -71.28256",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+c8b23dcb4d441ccb411ece31594e079540e4b0d051d5de673eaf2cbb9f3793c8,1810,1850,Mansfield,CT,"41.7792, -72.2135",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+1e69b32b88a5aae9fdd5437c341675372d03e8b65a172ba246600b2f236dde92,1811,1835,,,,,Jamestown,RI,United States of America,"41.4970, -71.3686"
+41fb4f28ec15b7bbba8525ca8b26c687cfa1b71c7e4498c7f053746656b9cbd7,1811,1898,Rehoboth,MA,"41.85396, -71.23999",United States of America,,,,
+d25710b6e957ce9a48a61746ffd9cdf93d4f962962264327323019951a809a20,1811,1876,Wayne County,KY,"36.8318, -84.8484",United States of America,,,,
+38e6cc7996c93934396696f209a8dc3f5e4d28614bcbf4efb2cf35b49dcd7ad3,1811,1849,Shrewsbury,VT,"43.5286, -72.8273",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+d723de94f7d8a0d065ad49ff8e35ccb00687f75c2cd25bdcbc635e3845d50531,1811,1854,,,,,Providence,RI,United States of America,"41.82442, -71.41251"
+6fe1f50223ec9043393a9734dce6b899c8747f92cad43b4570356c9f8502d80e,1811,1862,Dighton,MA,"41.81495, -71.12051",United States of America,Hilton Head,SC,United States of America,"32.1617, -80.7512"
+313709e1891bdcd2e53e4a83b8c251d84fca08dff5e82365e2342bc0beb0267a,1811,1889,Warwick,RI,"41.7001, -71.4595",United States of America,Manchester,NH,,"42.9959, -71.4561"
+7106a175e77ac220fa323d576e1f257729c6a758fca638f6f86c5548cc1d6029,1811,1886,West Greenwich,RI,"41.6239, -71.6659",United States of America,,,,
+4fb3606924010199bacc1debac1ae25301ccf740633219cb71b13fe7e5e27a78,1812,1830,,,,,Montevillier,,France,"43.61085, 3.87714"
+5e073cccfc95224e71ad7d7ece168ec9a4bdf1d04f1266a302fbe3ba78fb8ca7,1812,1835,,,,,New Orleans,LA,United States of America,"29.9775, -90.0776"
+688ae9fc8cdc42d4f3ec3305d448d57e5e3c6b6a32cf17e9aa0c4889dd2a8329,1812,1900,Bristol,RI,"41.67714, -71.26745",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+b4d1a07aa68a937249e1636d88d483a47bf0ff4098e45e72eec792a5389af85a,1812,1883,Norwich,CT,"41.5243, -72.0765",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+2400e02ce5432f0f7bf4a2b97697c315e7b75a5eaebf5f11fb0b5b154d3852c5,1812,1866,,,,,Cranston,RI,United States of America,"41.77899, -71.43723"
+aa3cc270bb4ecd9cc5491e501c33a41d463467dd16f9040d4fa5a91a7f4089e4,1812,1872,Paisley,,"55.8456, -4.4223",Scotland,,,,
+5277c55a2085795982b56218285031a65d23ad3ee098b839f32baa1a56d6e301,1813,1849,Bristol,RI,"41.67714, -71.26745",United States of America,Cranston,RI,United States of America,"41.77899, -71.43723"
+8caf6aa051f66210f1e587348a038d37a43ab068a52a2287513e066b4466bf36,1813,1814,,,,,Pawtucket,RI,United States of America,"41.87915, -71.38178"
+3d7250647ff34c8076f1b004b8490ce48ddc69c2a2f323df2e3028649ba7feac,1813,1831,Philadelphia,PA,"39.9508, -75.1643",United States of America,,,,
+c061ae0ecb57423fafb8b51a64566c2a9e614285804107b7b9d7d549e4eb6598,1813,1854,Providence,RI,"41.82442, -71.41251",United States of America,,,,
+51926c849c16795fec991a9a32b0a49128dd26e6d44002ea82b0819d42b378b0,1813,1874,Warwick,RI,"41.7001, -71.4595",United States of America,,,,
+db1cd04750c61a8df432f9c8006f27d919e6a9265fac35d52cb88a6c7aeab8d7,1813,1875,Stalybridge,,"53.4846, -2.0558",England,Cranston,RI,United States of America,"41.77899, -71.43723"
+837b6b7983f26b4fc37154962727e16e7f132e4af83d1f68bfc902d4790e9c28,1814,1877,Nassau,New Providence,"25.07825, -77.33847",Bahama Islands,Greenwich,CT,United States of America,"41.0255, -73.6263"
+4809f44cce9d3455859f5fa603f8a17c1c46633370045219d904b62337adca2a,1814,1863,,,,,Falmouth,VA,United States of America,"38.32408, -77.46752"
+fd6035d0d317a6f32cbc0e372f9f37001ba84dc02dac31933c8a414610ecf40f,1814,1832,,,,,Missouri Bay,,United States of America,
+29b87d655166786ea8e5b8aa91b097f63569113dc410a416f0591a16dd3b5245,1814,1893,Newport,RI,"41.49032, -71.31363",United States of America,,,,
+592f9d176a042fd1ee30b27ee627b6eeb09beea6e0b92391b4bd9cd7b8009503,1814,1852,,,,,Dodgeville,MA,United States of America,"41.92080, -71.29655"
+7d0c11f904f605d9b782d3dec94de08154aecea16b83fb8c0ac004feb20d7529,1814,1889,West Greenwich,RI,"41.6239, -71.6659",United States of America,,,,
+f44cc3993851a4a74f4d43c22ae091be299b13143d6f4bf07e25e545090d0cb3,1814,1874,,NC,,United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+9b3f4580ea2b8057bcf07331fb118af2ba84ab33b160c842e801ee7696ec617e,1814,1868,,,,,Providence,RI,United States of America,"41.82442, -71.41251"
+a33e0da6b3a28f0d34b8918eaffc0b9852220e0bfa19cb24389fa9069f4010cf,1815,1878,Boston,MA,"42.3555, -71.0603",United States of America,,,,
+778e8e310febd7750048ac73253b67226cddc08aa23ef841ef09728d3b766074,1815,1837,Providence,RI,"41.82442, -71.41251",United States of America,,,,
+ffa52413ecf0e25124789a082d6af87df2585ec8752d6f25d7d2759c393c2674,1815,1835,,,,,New York City,NY,United States of America,"40.7098, -74.0094"
+60f2f1eb2d65c762633c7e6adca24fd11fb4c5d844b18deb300d4ecd9aeb8363,1815,1874,,,,,Shelbyville,IL,United States of America,"39.40602, -88.78987"
+299a468d85db905acb207be7f3722cce5db965c8f69f8fd7edbc7dd30ded94e6,1815,1861,Franklin,MA,"42.0845, -71.4001",United States of America,,,,
+089f79edeeb1f708fc515b89b79ac337f8f05489cff0e487fd7c93530dcc6fa8,1815,1905,Castle Corner,,,Ireland,East Providence,RI,United States of America,"41.81854, -71.37320"
+22553009fa2bfc1bc1a60c373af3ca3c2e4ea2bca7477176b4badb6fe1036cd7,1815,1865,North Providence,RI,"41.84987, -71.46598",United States of America,,,,
+80841755228b12602aeb5c0b05dce956c80d9a2e07b65dae8e732fa41e77c307,1815,1845,,,,,Apponaug,RI,United States of America,"41.70086, -71.45988"
+83af26b734ba613a1750dedb9cae84a37923632a71ac0afe78a99c25be20014f,1815,1865,Wickford,RI,"41.57430, -71.46177",United States of America,Fairfax,VT,United States of America,"44.6650, -73.0076"
+b37b900738b705696df91ac3842020b93746dc0a2ff5eca494a37c96daa778f8,1815,1886,Boston,MA,"42.3555, -71.0603",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+54664af5a15c7fff3d6f28edef0ebbc86cb41d9d173651dc196f7e490f28f9a2,1815,1837,Liverpool,,"53.4087, -2.9883",England,,,,
+cebb7a4f98748df97d87735a7d5efd105576841fd4dfca9d4b1c54a174dcae6f,1815,1843,Providence,RI,"41.82442, -71.41251",United States of America,,,,
+20c2c8c6fc67a512c8f2f1c3bac3656ce0fb55cbd4f52f0b95e940735c2914b3,1815,1839,Dudley,Worcestershire,"52.5110, -2.0833",England,,NY,United States of America,
+f655e406d68a079bf2bae8d355bd31a4496c40ddbccea728e633c073590a70b2,1816,1879,Washington,DC,"38.8969, -77.0354",United States of America,,,,
+cbfcf0a5b40d9068a3efe5a26c4a39ccda394f6ecd2943738e80c80cb460d228,1816,1904,North Providence,RI,"41.84987, -71.46598",United States of America,,,,
+496668c7a03c00b207644352615a7f1497f95853897760c5fd6502a71453cfed,1816,1873,Tamworth,NH,"43.8603, -71.2625",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+9957a8dab509c323f6cce4bd499aa6fe749c923dbd8c46459415444b0a7e4b87,1816,1892,Groton,CT,"41.3492, -72.0765",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+26d169b682012b561c11ff8a8c0f2935170d90200de1db6ff7c6dc9133f14cba,1816,1849,,,,,San Francisco,CA,United States of America,"37.7761, -122.4165"
+acd2eccadf6fb61c3ff746813659ddf7d6b82b7321af8cc4f21d98e35ed6c3cd,1816,1845,Lancaster,,"54.0457, -2.8070",England,,,,
+1795adcb356907631e2248f836021e57166086b8763c6eff4683fe0e45700b54,1816,1858,Newport,RI,"41.49032, -71.31363",United States of America,,,,
+d103c43fb71176d4a3f4d1323ee86a70693b05978eb11f98b782ef3e186e7cda,1816,1860,Providence,RI,"41.82442, -71.41251",United States of America,,,,
+c94f3dab284ee231f1979ff76fb9da4a59c4ed044a5635217c2f078d550ff4b9,1817,1862,,,,,Washington,DC,United States of America,"38.8969, -77.0354"
+c6ea0847d7cd439f17920a9ef86ca15a436f92042428a3b71d6f28e09292387c,1817,1877,Salem,MA,"42.5199, -70.8972",United States of America,,,,
+24ec10245629e00e7c306ee348ec336a6492f17c888c0d2f438eb270f9e703e0,1817,1840,,,,,Florence,,Italy,"43.7704, 11.2558"
+b0b4b86012e259acd763a0432ede5c015112d308e43e2c4b96edae17f439770f,1817,1882,Newport,RI,"41.49032, -71.31363",United States of America,,,,
+80d7d57a86300298a768f68b63c20a4e7adac512774c750863e93db3e9bd14ec,1817,1902,Newport,RI,"41.49032, -71.31363",United States of America,,,,
+67b6bac1d1d0709a7e897fbe63d1309f8e75984cc4dea443363a4f1495f71997,1817,1838,,,,,Providence,RI,United States of America,"41.82442, -71.41251"
+c32e7c97e76dd2a7a5915104ed86bef5fe24f294b29df522da617fdb7a54aa16,1818,1896,Seekonk,MA,"41.8077, -71.3325",United States of America,,,,
+a0bfe27093fdc23d70866d3b686b839e6f4dd88f601624c9c8448611eb78d670,1818,1842,,,,,New York City,NY,United States of America,"40.7098, -74.0094"
+78cdc5464a5374bd69f348490551f832d9cb167d810b6df0178d70333de213cb,1818,1883,Hampden,ME,"44.7455, -68.8359",United States of America,,,,
+cf96c284767aeb592d74d42fd5d511d0ef0eb0baf6b4f071d8ad8d42f6f11353,1818,1887,South Kingstown,RI,"41.4564, -71.5423",United States of America,,,,
+8aa54963f94d696093462058944befe736aefefe838feb317779f4dbb7b455d4,1819,1847,,,,,Misroac,,Mexico,
+c06ee70b8fb2952171478ae4addcf56cacb766e5f5732dd25a2e801a188ea3f8,1819,1878,,,,,Warren,RI,United States of America,"41.73033, -71.28256"
+6c6ccac347202bf9fe0f1ae7a18a70a35c10dc5692fb75a0cdc9fedda4423e64,1819,1860,,,,,Don Pedras,CA,United States of America,
+f8ab148489ecfe58f070527e29f23b3647cce7c9cbd8e1cdeb33aff979f76e7c,1819,1863,Falmouth,MA,"41.5520, -70.6112",United States of America,,,,
+846dd61046047f42eef56ea3104befed013c1569e9bcf921bab83ac778269ef4,1820,1890,Cumberland,RI,"41.9638, -71.4314",United States of America,,,,
+d7703a6360a671bc6929106cf142abcf9c78679d40b1e2ca973639a55e096466,1820,1905,Norwich,CT,"41.5243, -72.0765",United States of America,,,,
+702b805b4b97fde3d4130f716149b9e717a5ed8e57946740c061c674e6e3d960,1820,1858,Charlestown,MA,"42.37808, -71.06189",United States of America,Newport,RI,United States of America,"41.49032, -71.31363"
+7aafa19051fd54a116d7a1b0f2ce96abbcde10139f6f529f6f12321b0cf04322,1820,1850,Chester,,"53.1945, -2.8894",England,,,,
+dfb66c4fec33e2ac50ba945de6241289dcae4a5abbc68eb0908d6034c6849fdb,1821,1842,Liberty County,GA,"31.7994, -81.4842",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+6e8e14689fddb6e5dd8881603d2606f28e180bb48df4f56497d9ff11b1e7f76d,1821,1876,Westport Point,MA,"41.52227, -71.07416",United States of America,Watchwoket,RI,United States of America,"41.79966, -71.37483"
+582de5648708e1957cf117016fec70f1a6361b48d904c2f51ab442c0fd85f755,1821,1874,Boston,MA,"42.3555, -71.0603",United States of America,,,,
+41b2103dcf5e97fb390b80c1a256a1fa5a0fcb701992cc0576740bf6b33772bb,1821,1863,Jerico,NJ,"40.79191, -73.54008",United States of America,,,,
+86ae5f09fa0b4970dfcebd3db34a1500ad62d03dec5465a764a53ed092a1958e,1822,1867,Parish of Clogher,County Tyrone,"54.4133, -7.1693",Ireland,,,,
+9f6cda04bcc3faf8a0e58dcf9c670023e3ecb2238834284bf657c2e9085d7d69,1822,1850,,,,,Providence,RI,United States of America,"41.82442, -71.41251"
+c81fb5012f2726b5acb4be7052608903d931759106fdcd2224db59e33e23882f,1823,1861,,,,,Mentone,,France,"43.77556, 7.50349"
+99e35e33e1ceb49245bfbb7d4d88fdd200e8ca3ed174c34685bd4c082aa830ee,1823,1841,Warwick,RI,"41.7001, -71.4595",United States of America,,,,
+4eeab6f986d453d6b57c9857e3fd6f47c0c9ca24292e15bb3b73ce5c623ea515,1823,1870,,,,,Dover,CA,United States of America,
+ff50c488f82fff63dedfa98dc168b9d0ac3bf304a90604d4631bc1a9cba1713e,1823,1889,Portsmouth,NH,"43.06989, -70.75453",United States of America,,,,
+b6e12fbefaee131564926dcade08d6c2d53e9e58ef581751380be2d88d829621,1824,1856,,,,,Buenos Ayres,,Argentina,"-34.6072, -58.4452"
+dc99a3e2bc825d495efe7d60912cdafa25f09bb130076a73af7fba0dc97aa5f5,1824,1855,Madison,CT,"41.2804, -72.6038",United States of America,Phenix,RI,United States of America,"41.71982, -71.53228"
+cc15d5fc5ff1f61f419cb0068c85b7f2f26d12ac8ce5d5ea95f38baf65e06b41,1824,1898,,,,,Warwick,RI,United States of America,"41.7001, -71.4595"
+32a94ea0e045ee2398e05cbd8a84ff93b191035a22657617790e36750421adf1,1824,1876,,,,,Providence,RI,United States of America,"41.82442, -71.41251"
+ed7f2b9c00a326efc9b87881f40e3f4d61e49b5be9abae6991b677f6802dc54f,1825,1830,,,,,Roxbury,MA,United States of America,"42.32511, -71.09502"
+4a0134956d6cff742aec2b97197210e267d50ae367975d733dd31cf63511a4af,1825,1858,Baden,,"53.00218, 9.08140",Germany,Providence,RI,United States of America,"41.82442, -71.41251"
+5c6bbf03b00f6d47173a763dceb2443fcca469cf9abe1b93335cb46ed2ffb589,1825,1896,Norwich,CT,"41.5243, -72.0765",United States of America,,,,
+da27add96e4fc5885d6aff1f1a3c469cbb195edee4af170354a719e683899508,1825,1871,,,,,East Greenwich,RI,United States of America,"41.66073, -71.45525"
+a649315b6fd6479d910cb19863ca000b258e297a51833ab5fbf17614731845c1,1825,1851,,,,,Burk,VT,United States of America,"44.6406, -71.9800"
+b25bf2d4a08540dd1d4f75dac4892a626050c1a330b55643e64d2333dff05c19,1826,1857,,,,,Havre,,France,"49.4947, 0.1051"
+8f695e7f599eb44a3f300b8894cbdb7b60425befd982eba0df1844a1b431b2b3,1827,1901,Boston,MA,"42.3555, -71.0603",United States of America,Cambridgeport,MA,United States of America,"42.35981, -71.10682"
+c7b55751eb9890bfb58508794b7e25146027e5dd7fb997467ccf525fdcfa3179,1828,1885,,,,,Hamilton,NY,United States of America,
+1df52ce6590d6f863efb290b96643a1a7703c4c5a87c628e77cbc972e6268e95,1828,1863,,,,,Forest City,,United States of America,
+d00fa224ed1190827d4d845320afe9b417eb1ebb91b3d46b48f3ef233bc696c2,1828,1878,,,,,Chepachet,RI,United States of America,"41.91537, -71.67129"
+53977ccca71516bed8a1772989404c3be6e7b784adef9590bd0c7bdc57fdca69,1829,1904,New Bedford,CT,,United States of America,Warwick,RI,United States of America,"41.7001, -71.4595"
+eafd7e65a25a6bc6ddd9d4b31371d675e0e0c4f87d0abf8af18229d2690bd5c8,1829,1848,,,,,Platte Kill,NY,United States of America,
+d18293ee37146952c6e5c714e1b60d06c532b111f2253831c2efc9fb3356df68,1829,1857,,,,,Chicago,IL,United States of America,"41.8798, -87.6256"
+db8ab5e1982fbe58b6b2a579e594a063aa19ca1269901a457e5cdf41e342faae,1830,1834,,,,,New York City,NY,United States of America,"40.7098, -74.0094"
+1c96b4c88b9317e46ea90a9de094f26eadd624cb839ed84dc32a309a8287ed5b,1830,1831,,,,,Southbridge,MA,United States of America,"42.07529, -72.03426"
+d5877b5044aaa121608ddd0ce6b9462127e728796b1bcbe027ab00c53e6e1613,1830,1874,Gilmanton,RI,,United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+9a508455fb2a96c8ae686199b8d24102dca4431f2deaaa557b6091bd7665112e,1831,1895,Warwick,RI,"41.7001, -71.4595",United States of America,,,,
+61a21ee0b769470d2fdd7b6864548258efa6aa20a1c0fca824011d3d60d19dfe,1831,1862,,,,,San Francisco,CA,United States of America,"37.7761, -122.4165"
+75c5180ca8d0fdf5ae7c1a1158187564e718d9b89d7a3018f73a3c3ac87530d8,1831,1863,,,,,St. Louis,MO,United States of America,"38.6314, -90.1875"
+f9505e0a9b7ca12e037029aa776395f6cce068d38eae4e57cf3fbbfbc6a9ab52,1831,1849,,,,,San Francisco,CA,United States of America,"37.7761, -122.4165"
+46e1072f28f686eb54a669261d26a1e0b07fd3eb642c35df873bd2514f3b6bad,1831,1902,Providence,RI,"41.82442, -71.41251",United States of America,,,,
+c3ab3d86794db94fdc42d7866f31b8e67bdd343689857c3f08c3b6f1915e4370,1832,1835,,,,,Boston,MA,United States of America,"42.3555, -71.0603"
+d4f12f47974e176a027a2dc8f35308231b2d21c8005d4498a3bdb04b3a3dbfda,1832,1871,Boston,MA,"42.3555, -71.0603",United States of America,East Boston,MA,United States of America,"42.37567, -71.03931"
+ad104da3350fc6fdada6ec0eb74fb4837b45c285884b9e259c9ad05bbab46e26,1833,1835,,,,,Boston,MA,United States of America,"42.3555, -71.0603"
+46c70ba652562ac56ae7e5994af9ba476a92664cd4dae3a59b093b36f2294b97,1833,1871,,,,,London,,England,"51.5070, -0.1318"
+699e080e71f2cc67014d8af536403e2fa8031e8dd31f1b138e8fed0e1e0ca0fc,1833,1901,,,,,Providence,RI,United States of America,"41.82442, -71.41251"
+b9a473107e4a80b96cfbadf047c4a52569e9ada9daff6e3e29d1acf2b5a698c6,1833,1861,,,,,Boston,MA,United States of America,"42.3555, -71.0603"
+b4d055228873348121b0ddb6e5750cadb70e971016c641466f3d8fd3984587a3,1833,1836,,,,,Fall River,MA,United States of America,"41.7006, -71.1543"
+bb92044b48e8bdd6e3329d0aacbe67227de5c8791ade1ca4e862b0a9322030ff,1834,1865,Providence,RI,"41.82442, -71.41251",United States of America,Havre,,France,"49.4947, 0.1051"
+72c705cd890ab877118c595e0f5bb9819616369a0517ea290ed263bb31e373c2,1834,1904,,,,,Warwick,RI,United States of America,"41.7001, -71.4595"
+8f956e3f1c5b840a218a4ee12e7d7a343e151175af6d66d6986d25596c574b94,1834,1872,Providence,RI,"41.82442, -71.41251",United States of America,Lafayette,NY,United States of America,"42.8921, -76.1078"
+12fab5af8554719bab5df8bda5dce400d9b84e1f8835248eea15d86b066b8d02,1834,1888,Williston,VT,"44.4382, -73.0680",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+c9e4c94b7ed0087d7dddaf0256b6a39ef89fb0c5512d09d96d6cf79053dbb214,1834,1839,,NY,,United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+18717a92f013335d9c4ffdfc4bfdc32364bdb817ab7109681a3abb58b8507f14,1834,1856,,,,,New York City,NY,United States of America,"40.7098, -74.0094"
+c9aae67957f664d2ca0bb894f8847003f4a8e3ce9b57fd215e46a66ee884e4de,1835,1852,,,,,Portland,,United States of America,
+4384030aad05c4f3f5993de956cb980cece862c9f824498b9c5f27648ce60dd6,1835,1918,Nashville,TN,"36.1623, -86.7769",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+9984f80c569edfbd1464c8ecf86c894d619fd3c6217eeaf178d16143de183d35,1835,1918,Providence,RI,"41.82442, -71.41251",United States of America,Los Angeles,CA,United States of America,"34.0595, -118.2417"
+71cb013ff2b567445a4736a1294453f2c832f5282064b154e3a870d7d0eecfa3,1835,1880,Paris,,"48.8527, 2.3476",France,,,,
+5c3e7ac2d82c2bb814c9f7c10e8852bf3408f036103262376c2d967b9908ec39,1835,1882,,,,,Hillsdale,MI,United States of America,"41.92016, -84.63112"
+6ca808fec9f3be91dda3aef55fe2acd76c3eb809f15d9fd83292fd472144d3e3,1835,1857,New Bedford,MA,"41.6355, -70.9336",United States of America,Warren,RI,United States of America,"41.73033, -71.28256"
+139744cdca6c96ed1e95179ac2cdec0522156288cc9675f35e2078e9636ba247,1836,1888,Providence,RI,"41.82442, -71.41251",United States of America,,CA,United States of America,
+b9cf3c7b15ab0c835ad1644c40477189ba4f58700b9dc965fd8f0bea59e8aeb1,1836,1900,Providence,RI,"41.82442, -71.41251",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+b2911a472d7c801985c24031bc5390766f285ad8776e75973d0fd30d0a0b59d8,1836,1861,,,,,Andersonville,GA,United States of America,"32.19606, -84.14034"
+19ff7f83bc8c64fb3943c3d6f07ff1b4c946354e24457467de0d3f3ccdc0b79b,1837,1862,,,,,Hagerstown,MD,United States of America,"39.64350, -77.71952"
+9e532266255bf6ed4d29a88919cb7f96d063c195c9b0a1427c13ba7be9ffca89,1837,1882,,,,,Johnston,RI,United States of America,"41.83069, -71.54211"
+15818d5cf4acefd9c3cac80789327ab4faa56a9e05c189cc30fb4e4923771f27,1838,1870,Warwick,RI,"41.7001, -71.4595",United States of America,Rome,,Italy,"41.8900, 12.4791"
+3b30565b2f915800200a659245b79bad07f396c1c894475a5e9fd7fe683b34ca,1838,1862,,,,,Newport News,VA,United States of America,"36.9762, -76.4264"
+ea66bf3f61e17091244b4fa7c3dbd3bce3284d2f342e4c7e9be38b1861f6cb2d,1838,1898,Providence,RI,"41.82442, -71.41251",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+27aae8dc5d788067a405533033404bfe8f89720919875339a8546c08f1e0ea17,1839,1862,Bristol,RI,"41.67714, -71.26745",United States of America,New York City,NY,United States of America,"40.7098, -74.0094"
+f4692207872111f0f8af3318d3cab200b37605a8ef22a2d1ecea499ef2c9d94e,1839,1866,West River,MO,,United States of America,Brooklyn,NY,United States of America,"40.6525, -73.9517"
+e70a8ea943f50117e13fba8508c1ed021da499de31901985ae244f7ffa80bfd7,1839,1865,,,,,Key West,FL,United States of America,"24.55446, -81.80171"
+00648fd57280af1a9cc9e376369f3fa00e65f07c34f014d3f3c37e9a98522324,1840,1871,Stand.,,,England,Johnston,RI,United States of America,"41.83069, -71.54211"
+fc5e592a1e22d6267f40d08535975d6c6189099c32769b47a98cfd5bdec46c0d,1841,1842,Bristol,RI,"41.67714, -71.26745",United States of America,,,,
+082d4502277f3794e66b11f56c5bc41bcc63acf0d74ce014ed6be3e143993b37,1841,1842,,,,,Detroit,MI,United States of America,"42.3342, -83.0457"
+c315a8d54d68f804df736ec0d81f428df895d2df30038575c0176edb4508ef2b,1841,1925,Boston,MA,"42.3555, -71.0603",United States of America,,,,
+1266218342e193462e32ea47f036ea6d28852ff30eed8b9fda0a583d0dbab986,1841,1864,,,,,Florence,SC,United States of America,"34.2010, -79.7690"
+bdd77736271ff531835ebc09e992435c096bb30db0edc215cd55db70596161c6,1841,1934,Chester,PA,"39.992, -75.699",United States of America,New York City,NY,United States of America,"40.7098, -74.0094"
+5c2cd65323d21aec4d7af7df94b158febcfeafeec17542c386d67ce796a1c504,1841,1871,Providence,RI,"41.82442, -71.41251",United States of America,San Francisco,CA,United States of America,"37.7761, -122.4165"
+cf70e83e906182e5fe8ad62e51f6f268ca279c3efacad1dbae5b42e4509a8e45,1842,1843,,,,,Lumpkin,GA,United States of America,
+8278a1904fd0ac05c1f7d3075cd3e8bcc3afd721c7bd7a628f6121ae573c890b,1842,1863,Providence,RI,"41.82442, -71.41251",United States of America,,,,
+eba8c13b5c27e60eae36e325617c7412aac2efc85faf1b17605e71cb8e118ef7,1842,1875,Boston,RI,"42.3555, -71.0603",United States of America,,,,
+7cee5ed792e62d60eede2b028c5d6c758d481b87692c78e15c7e9097a2761dfc,1843,1868,,,,Mexico,Providence,RI,United States of America,"41.82442, -71.41251"
+adec1b6e09e8e8b5deef3c8167e07044f2b1360593d8f20a3a671a79dbca09a2,1843,1914,Nashville,TN,"36.1623, -86.7769",United States of America,Bern,,Switzerland,"46.9491, 7.4525"
+7c014ad7038248ca44a281ba79f69d6afbb81f2c557f55faeed231187bc74120,1843,1866,,,,,Providence,RI,United States of America,"41.82442, -71.41251"
+dc52ab1205b955c947238036aff57c8e3462a5896f278a7e3bb68dbf2ccdf415,1843,1863,Providence,RI,"41.82442, -71.41251",United States of America,Memphis,TN,United States of America,"35.1497, -90.0549"
+6a9c7b7340c3a7041a11efed86c971ebd4e5bab0ebbfb060538a09291067323f,1844,1866,,,,,Newark,NJ,United States of America,"40.7361, -74.1742"
+076f922538bda1b4fc89ea1132d79b281918922dfedb99b40fa82a84f75d6395,1844,1916,Constantinoble,,"41.0084, 28.9764",Turkey,Marseilles,,France,"43.2992, 5.3703"
+713b6813f4a364ff76d77cd8d631894e3203c143028627d3fa5ee3ccd399801e,1844,1845,,,,,Cumberland Hil,RI,United States of America,"41.9638, -71.4314"
+1199cc5756f16f11e213dd82ae3fb4d06e9d59a799e828f5f6a88f713eb38fba,1844,1923,Belmont,NH,"43.4462, -71.4801",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+5c3c51c45c051c50ecc52b89344c3ba28816292ba301aae41e35eba5e1f4712a,1844,1877,,,,,Providence,RI,United States of America,"41.82442, -71.41251"
+7c487f49943303952cf5f23382719bd131dde56bdea1296156d5c3222e2f6771,1845,1917,,,,,Bristol,RI,United States of America,"41.67714, -71.26745"
+97c8234aa02df7445fbe82234632941cac4843cc5ca0d9967faa4bf448c6f716,1845,1915,New York City,NY,"40.7098, -74.0094",United States of America,East Providence,RI,United States of America,"41.81854, -71.37320"
+9fa2430acde7ec821185d32f1fcc3958c2b04f8dd8a1bc45df3167877f05b465,1845,1874,Leesburg,VA,"39.11554, -77.56451",United States of America,Hyeres,,France,"43.1220, 6.1331"
+f61793b2f03ffa13aafa947af16452d864ea434a193a52183f4c64f00a76ebac,1845,1905,Magdon,NY,,United States of America,Woonsocket,RI,United States of America,"42.00294, -71.51490"
+65adc7fa5f61a28857026dc1fb4e75a6ce9fe5567878283e2014ddb743aeb5c9,1846,1919,Paris,,"48.8527, 2.3476",France,East Providence,RI,United States of America,"41.81854, -71.37320"
+24c3f3a02b7f8c0894752a3df1ea2b3ee24086f0b9bb9faf78035d600bbe890c,1846,1852,Providence,RI,"41.82442, -71.41251",United States of America,Roxbury,MA,United States of America,"42.32511, -71.09502"
+36b1e8420e93caa7339fe659b5383b9761b3cdb1b5bb49695623c1d28cc8743f,1847,1867,Portland,ME,"43.6599, -70.2617",United States of America,,,,
+713c9c41b47c11b32207897d85abbb2b54084256703eec1d5a9b5f24e4774184,1848,1916,Belmont,NH,"43.4462, -71.4801",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+ee7fd749283021464ab00720b74bec43a499e6876b6ef00fa1e360359feefcec,1848,1849,Roxbury,MA,"42.32511, -71.09502",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+0d68431c480f4a7e324aadbbee07c1d3b5eb08af570f5e98a7954bb1514b208a,1848,1876,Chateau Gay,NY,"44.92662, -74.07995",United States of America,,,,
+9ea2ebb1ecc61f8641daa5e32cb64a3f03809022030829b7296a4fea11dbe54e,1849,1916,New York City,NY,"40.7098, -74.0094",United States of America,Marseilles,,France,"43.2992, 5.3703"
+9dd848738216ddd9db4b329faf2c6b7b807d255df4df0bca367ec2b03c010f76,1850,1901,Belmont,NH,"43.4462, -71.4801",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+ec37459e7ceb71f0e265caeb71bcdeb3ef5a29954272b8913a3b126d0dbb4e3d,1851,1875,Portsmouth,NH,"43.06989, -70.75453",United States of America,,,,
+da19a69b689ac1938fd0c653cc8b0fb0a95c377696fbd9d029a79dab7ba717f1,1852,1932,Centerville,RI,"41.69650, -71.52267",United States of America,Kingston,RI,United States of America,"41.48010, -71.52246"
+4cc73c3f12af3bfc2c1cb9b38a8ff948ed66d9d8774365572f16544f64ace60d,1854,1937,Sutton,MA,"42.1502, -71.7644",United States of America,,,,
+e5a3ce89cae20d0578a22d128dc95d5a1fb7765f2aa1f174c6632386b734c8a9,1854,1914,Viggiano,,"40.3392, 15.9007",Italy,Providence,RI,United States of America,"41.82442, -71.41251"
+3b332f0cb9a1ca40a5aa6b3a6692329c0347895d95b842b2599436e50e08aa57,1856,1948,Putnam,CT,"41.91505, -71.91015",United States of America,,,,
+aed4091ff4464512f5774f24f1a24d543756b61922e908fa3c26966ab1451854,1856,1923,,,,,Oakland,CA,United States of America,"37.8065, -122.2689"
+44145c16623cde1d08cfe635e7386769e5c501b8baf440c6656faa2275c52a7e,1857,1893,,,,,Chicago,IL,United States of America,"41.8798, -87.6256"
+8e03469c1f7857e4010b4f9de3417995155522af4db5bf5b02c889fc6558cc11,1869,1959,New York City,NY,"40.7098, -74.0094",United States of America,New York City,NY,United States of America,"40.7098, -74.0094"
+9e918abe0b0bf9a7b2f0d9d6ebd3d7c7a2dfe1be4179889af1fd96a2ac6453f2,1871,1929,Cumberland,RI,"41.9638, -71.4314",United States of America,Neuilly-Sursein,,France,"48.88464, 2.26996"
+aa7da529635066864778f37ae5f5ebc4ec27cd0db6afa30caec87f98f0032ad9,1872,1931,Nashville,TN,"36.1623, -86.7769",United States of America,,,United Kingdom,
+90013c9306099a18ba4bcb0127516b15372e575860157553f96979ba3f6a7cc3,1875,1921,New York City,NY,"40.7098, -74.0094",United States of America,Paris,,France,"48.8527, 2.3476"
+65771093212842b9b0d8e784a545a4c04c0042832c5a7dc91d172880c7040286,1876,1943,St. Denis,,,Canada,,,,
+fb89fa9e49790e299f54ce2fc7ad5cc6b7aef42d1d32b87a1c9ce5fd37e01ff4,1876,1952,New York City,NY,"40.7098, -74.0094",United States of America,New York City,NY,United States of America,"40.7098, -74.0094"
+5b165f1f0f85d6bff74a92d4b6343ce5651b796c54b1ff3c6581217339ecd90f,1877,1962,Putnam,CT,"41.91505, -71.91015",United States of America,,,,
+e2c1353856f2db4c722b1d593bc8c09912de6c29a6cb1334375ccd3aa904bbd1,1879,1950,Knowlton,Quebec,"45.21905, -72.50856",Canada,,,,
+2f24fee27a89e022fa9d441d101b36ee68685bd939990b49b2b15756a597c9a8,1879,1882,Putnam,CT,"41.91505, -71.91015",United States of America,Putnam,CT,United States of America,"41.91505, -71.91015"
+93c43712bcc47b5d418234bc210a91cd48066abbf431070278dd3256ddddbcfa,1880,1880,Killingly,CT,"41.82058, -71.84046",United States of America,Providence,RI,United States of America,"41.82442, -71.41251"
+cc35b6583451131acc768c16282dfa078698cd8f76349569bb3032a3393684b2,1893,1916,,,,,McAllen,TX,United States of America,"26.2072, -98.2308"
+4a96a933e946c1d73a56b29410566ee6722a2b6536c33651fc8a1a6f1ae78915,,1860,,,,,Georgetown,DC,United States of America,"38.90499, -77.06248"
+c19bec9b2a84a5370e9be84d530b14d7ddd0c9d9a2c80b97547933bf432f970f,,1804,,,,,Wilmington,NC,United States of America,"34.2317, -77.9415"
+0434d964d62120e16307088da9ad18bf83d4a7dfc8a1c5ca695a64ddb34efb38,,,,,,,Providence,RI,United States of America,"41.82442, -71.41251"
+7b7f81c463586b5db1d6aafa56ae9329fd036e82839149092aae322e4061844a,,1903,,,,,Chicago,IL,United States of America,"41.8798, -87.6256"
+9553c51d92d2b4df4a4df7da54c5fa87a4d616efea375e6d1e7e853651ef8858,,,Boston,MA,"42.3555, -71.0603",United States of America,,,,
+f1e207ae188ed6f3f5cbe65111740d5cc7a4c2d89b23ed515346c3c91926b9a6,,,Taunton,MA,"41.9007, -71.0942",United States of America,,,,
+554068c370d917c2f7701b6afb2bf83848bdcd5a071e0d00804fa4e7c8b0fc30,,1907,,,,,Brooklyn,NY,,"40.6525, -73.9517"
+36c517c61dbd0dd4f70dd61936211f0dcad41bf83490e8fcc9a1a55f87c2e1b3,,1916,,,,,Denver,CO,United States of America,"39.7420, -104.9854"
+7e9cf78c0bfca78cf71e7e67cb37dc6f9a5e74928c990d98639485f2bbce41cf,,1885,,,,,Providence,RI,United States of America,"41.82442, -71.41251"
